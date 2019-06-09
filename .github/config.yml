@@ -1,0 +1,37 @@
+# Configuration for welcome - https://github.com/behaviorbot/welcome
+
+# Configuration for new-issue-welcome - https://github.com/behaviorbot/new-issue-welcome
+
+# Comment to be posted to on first time issues
+newIssueWelcomeComment: >
+  ### 人工智障机器人 屌丝plus 提示：
+    关于本地部署后，侧边栏只有一项[前言]，先检查js代码块字符是否正确，`loadSidebar:true`是否一致，浏览器缓存是否清理；或换个浏览器。
+    ```
+    <script>
+      window.$docsify = {
+        name: '',
+        repo: '',
+      <!--此处-->
+        loadSidebar: true  
+      }
+    </script>
+    ```
+    **注意: `docsify init .` 会格式化（初始化）index.html 配置文件，直接`docsify serve`部署即可 ╮(╯▽╰)╭**
+    
+    ![](https://i.loli.net/2019/06/07/5cfa7580dd37a85112.gif)
+
+    -- 超时空战士 屌丝plus 作者 by [hoodiearon（渡鸦）](https://hoodiearon.github.io/)
+# Thanks for opening your first issue here! Be sure to follow the issue template!
+# Configuration for new-pr-welcome - https://github.com/behaviorbot/new-pr-welcome
+
+# Comment to be posted to on PRs from first time contributors in your repository
+# newPRWelcomeComment: >
+  # Thanks for opening this pull request! Please check out our contributing guidelines.
+
+# Configuration for first-pr-merge - https://github.com/behaviorbot/first-pr-merge
+
+# Comment to be posted to on pull requests merged by a first time user
+# firstPRMergeComment: >
+  # Congrats on merging your first pull request! We here at behaviorbot are proud of you!
+
+# It is recommended to include as many gifs and emojis as possible!  .github/config.yml
