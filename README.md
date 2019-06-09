@@ -57,8 +57,7 @@
 * 进入到`fq-book-master/docs`目录
 * 右击打开`git bash`输入`docsify init .`
 * 使用`docsify serve`完成本地部署
-
-在浏览器中输入`localhost:3000`即可看到效果 :joy: 
+* 在浏览器中输入`localhost:3000`即可看到效果 :joy: 
 
 更多详细教程请看[docsify官网文档说明](https://docsify.js.org/)，当然，你也可以使用[wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf)  以及结合[tools.pdf24.org](https://tools.pdf24.org/zh/webpage-to-pdf)制作《这本书》的PDF
 
