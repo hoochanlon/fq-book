@@ -15,7 +15,7 @@
 * 解压缩后进入到`fq-book-master/docs`目录中右击打开`git bash`输入`docsify init .`
 * 接着使用`docsify serve`完成本地部署，在浏览器中输入`localhost:3000`即可看到效果 :joy:
 
-更多详细教程请看[docsify官网文档说明](https://docsify.js.org/)，当然，你也可以使用[wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf) 以及 [tools.pdf24.org](https://tools.pdf24.org/zh/webpage-to-pdf) 结合制作《这本书》的PDF
+更多详细教程请看[docsify官网文档说明](https://docsify.js.org/)，当然，你也可以使用 [wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf)   以及 [tools.pdf24.org](https://tools.pdf24.org/zh/webpage-to-pdf) 结合制作《这本书》的PDF
 </details>
 
 <!--《这本书能让你连接互联网》 又名 《膜蛤近书目录》 逃 )))-->
