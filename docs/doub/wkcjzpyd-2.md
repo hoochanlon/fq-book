@@ -1,6 +1,6 @@
 # 关于目前 GFW(墙) 的封锁方式TCP封锁(阻断)猜想
 
-| 原文：[关于目前 GFW(墙) 的封锁方式TCP封锁(阻断)猜想](https://doubibackup.com/wkcjzpyd-2.html) 作者：[逗比](https://dbgjd.com/toyo.html)
+> 原文：[关于目前 GFW(墙) 的封锁方式TCP封锁(阻断)猜想](https://doubibackup.com/wkcjzpyd-2.html) 作者：[逗比](https://dbgjd.com/toyo.html)
 
 对于翻墙界来说，今年真不是个顺利年。从年初的 SSR 停更并删除项目，到后来的数次大规模封禁代理服务器，甚至发展到现在已经成为日常了（GFW 2.0），几乎每天都有人的代理服务器被墙，经常听到各个群组讨论，也是。。哎！好了，说正题。
 
