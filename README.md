@@ -34,7 +34,7 @@
 3. 在 settings 找到 GitHub Pages 并选择 `master brach/docs folder` 
 4. 访问 `https://你的GitHub用户名.github.io/fq-book` 即可看到效果
 
-<details><summary>这里以 [anhoodie](https://github.com/AnHoodie) 为示例 click me! </summary>
+<details><summary>这里以 anhoodie 为示例 click me! </summary>
 
 ![](https://user-images.githubusercontent.com/35732922/59164863-80b72000-8b45-11e9-8807-849ba56056f4.png)
 
