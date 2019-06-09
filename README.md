@@ -28,7 +28,9 @@
 
 在线部署：
 
-fork 《这本书》 到你的 repo，并修改 docs/index.html，将`window.$docsify = {}` 的`repo` 修改成你的 repo，在 settings 找到 GitHub Pages 并选择 `master brach/docs folder` 即可
+1. fork 《这本书》 到你的 repo
+2. 修改 docs/index.html 将`window.$docsify = {}` 的`repo` 修改成你的 repo
+3. 在 settings 找到 GitHub Pages 并选择 `master brach/docs folder` 即可
 
 <details><summary>这里以 anhoodie 为示例 click me! </summary>
 
