@@ -27,7 +27,7 @@
 
 ## ***usage***
 
-在线部署：
+### 在线部署：
 
 1. fork 《这本书》 到你的 repo
 2. 修改 docs/index.html 将`window.$docsify = {}` 的`repo` 修改成你的 repo
@@ -46,19 +46,34 @@
 
 ![Snipaste_2019-06-10_06-18-56](https://user-images.githubusercontent.com/35732922/59165031-d7255e00-8b47-11e9-8a5b-829b61afeb24.png)
 
-<details><summary>本地部署教程 click me! </summary>
- 
-所需环境：[git](https://git-scm.com/)、[node](https://nodejs.org/zh-cn)
 
-* 环境安装很简单一直 `下一步` 直到完成安装即可
+### 本地部署教程
+
+ 
+所需环境：[git](https://git-scm.com/)、[node](https://nodejs.org/zh-cn)；安装很简单一直 `下一步` 直到完成安装即可。
+
 * 右击选择`git bash`在命令行中输入 `npm i docsify-cli -g`
 * 点击`clone or download`接着再点击`DownloadZIP`下载压缩包
 * 解压缩后进入到`fq-book-master/docs`目录中右击打开`git bash`输入`docsify init .`
-* 接着使用`docsify serve`完成本地部署，在浏览器中输入`localhost:3000`即可看到效果 :joy:
 
-更多详细教程请看[docsify官网文档说明](https://docsify.js.org/)，当然，你也可以使用[wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf)  以及结合[tools.pdf24.org](https://tools.pdf24.org/zh/webpage-to-pdf)制作《这本书》的PDF
+<details><summary>图示 click me! </summary>
+
+![](https://user-images.githubusercontent.com/35732922/59165501-28851b80-8b4f-11e9-9d59-ed6d4b098dae.png)
+
+![](https://user-images.githubusercontent.com/35732922/59165492-ec51bb00-8b4e-11e9-8d76-a0c80bab0e2e.png)
+
+![](https://user-images.githubusercontent.com/35732922/59165454-5cac0c80-8b4e-11e9-9a80-0c7582e839dc.png)
+
+![](https://user-images.githubusercontent.com/35732922/59165460-7f3e2580-8b4e-11e9-883b-269d65576146.png)
+
 </details>
 
+* 接着使用`docsify serve`完成本地部署，在浏览器中输入`localhost:3000`即可看到效果 :joy:
+
+![](https://user-images.githubusercontent.com/35732922/59165462-8e24d800-8b4e-11e9-89d8-8f62e7817808.png)
+
+
+更多详细教程请看[docsify官网文档说明](https://docsify.js.org/)，当然，你也可以使用[wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf)  以及结合[tools.pdf24.org](https://tools.pdf24.org/zh/webpage-to-pdf)制作《这本书》的PDF
 
 ## ***mind you*** 
 
