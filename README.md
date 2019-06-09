@@ -47,8 +47,9 @@
 
 <details><summary>本地部署教程 click me! </summary>
  
-点击`clone or download`之前，确认本机是否有[git](https://git-scm.com/)与[node](https://nodejs.org/zh-cn/)生产环境若没有请点击下载，安装比较傻瓜化，一直点`下一步`或`next`即可
+所需环境：[git](https://git-scm.com/)、[node](https://nodejs.org/zh-cn)
 
+* 环境安装很简单一直 `下一步` 直到完成安装即可
 * 右击选择`git bash`在命令行中输入 `npm i docsify-cli -g`
 * 点击`clone or download`接着再点击`DownloadZIP`下载压缩包
 * 解压缩后进入到`fq-book-master/docs`目录中右击打开`git bash`输入`docsify init .`
