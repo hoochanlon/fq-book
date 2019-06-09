@@ -15,7 +15,8 @@
 
 ![](https://i.postimg.cc/MpMPCNLS/Snipaste-2019-06-08-14-28-28.png)
 
-btw，他这站点借助 [weirch (free-ss的站长)](https://github.com/free-ss) 的 free-ss.site 提供的节点，看来引流量不少；但不可否认，以此方式提供节点信息，确实帮助了不少人，这个是值得肯定的。
+不过也得注意的是：关注的人越来越多，自然会引起五毛以及内部的觉察，他们只要动些手脚比如人海举报、或是gfw等级封锁，自然又访问不成了。使用 watching 留意观察他提供ss节点访问更新就好了。btw，他这站点借助 [weirch (free-ss的站长)](https://github.com/free-ss) 的 free-ss.site 提供的节点，看来引流量不少；但不可否认，以此方式提供节点信息，确实帮助了不少人，这个是值得肯定的。
+
 
 和 weirch 聊到相关话题，我也把 [WebSiteOutlook](https://github.com/hoodiearon/WebSiteOutlook) 的issue功能关了，因为...如图...当然我也删去一些人发着玩的 issue 以及广告，由此还是将存储库的issue功能关闭算了...
 
