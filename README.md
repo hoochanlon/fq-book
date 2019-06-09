@@ -30,12 +30,12 @@
 
 1. fork 《这本书》 到你的 repo
 2. 修改 docs/index.html 将`window.$docsify = {}` 的`repo` 修改成你的 repo
-3. 在 settings 找到 GitHub Pages 并选择 `master brach/docs folder` 即可
+3. 在 settings 找到 GitHub Pages 并选择 `master brach/docs folder` 
+4. 访问 `https://你的GitHub用户名.github.io/fq-book` 即可看到效果
 
 <details><summary>这里以 anhoodie 为示例 click me! </summary>
 
 ![](https://user-images.githubusercontent.com/35732922/59164863-80b72000-8b45-11e9-8807-849ba56056f4.png)
-
 
 ![](https://user-images.githubusercontent.com/35732922/59164963-e061fb00-8b46-11e9-9647-c827fa784e38.png)
 
