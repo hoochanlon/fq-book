@@ -1,6 +1,6 @@
-# 浅谈HTTP劫持、DNS污染的影响及解决办法（仅个人理解）
+# 浅谈HTTP劫持、DNS污染的影响及解决办法
 
-| 作者：[逗比站长](https://dbgjd.com/toyo.html)
+| 原文：[浅谈HTTP劫持、DNS污染的影响及解决办法（仅个人理解）](https://doubibackup.com/6t3mypbm-5.html) 作者：[逗比](https://dbgjd.com/toyo.html)
 
 首先我们说一下“墙：防火长城”，它是由 互联网科学家（比如：方滨兴）、工作人员、五毛、分布式超级计算机、三大运营商组成的。
 
