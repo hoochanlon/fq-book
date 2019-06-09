@@ -5,7 +5,10 @@
 
 ## ***intro***
 
-首先对早期fork者说声歉意，因为早期不管是[websiteOutlook](https://github.com/hoodiearon/WebSiteOutlook)还是[fq-book](https://hoodiearon.github.io/fq-book)变动都很大。特别是fq-book，也是各种担心且因其他缘由与相关操作不当导致删除重建好几次该书项目，致使该书有多个未完全残缺版本，很是影响阅读体验，这对该书籍传播是尤为不利的；知识是共享的，且该书转载与借鉴了很多相关作者的文章内容，因此允许演绎作品共享但禁止商用，你也可以下载源码进行本地部署阅读本书
+本书着重于上网的方式与获取网站信息的技巧，并对相关流行且主要且典型的软件做简要的上手配置，以及原理的相关说明。
+
+
+
 <details><summary>本地部署教程 click me! </summary>
  
 点击`clone or download`之前，确认本机是否有[git](https://git-scm.com/)与[node](https://nodejs.org/zh-cn/)生产环境若没有请点击下载，安装比较傻瓜化，一直点`下一步`或`next`即可
