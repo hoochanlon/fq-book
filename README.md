@@ -22,13 +22,23 @@
 
     </details>
 
-此外，还精简了不必要的重复内容，图片采用 postimages 支持，项目由30M降低到144KB大小，非常方便在线部署及下载。
+此外，还精简了不必要的重复内容，图片采用 postimages 支持，项目由30M降低到144KB大小，非常方便在线部署及下载，欢迎 fork 《这本书》！
 
 ## ***usage***
 
-fork 该项目
+在线部署：
 
-![]()
+fork 《这本书》 到你的 repo，并修改 docs/index.html，将`window.$docsify = {}` 的`repo` 修改成你的 repo 即可，这里以 anhoodie 为示例
+
+![](https://user-images.githubusercontent.com/35732922/59164863-80b72000-8b45-11e9-8807-849ba56056f4.png)
+
+`settings -> GitHub Pages` 选择 `master brach/docs folder`
+
+![](https://user-images.githubusercontent.com/35732922/59164963-e061fb00-8b46-11e9-9647-c827fa784e38.png)
+
+预览
+
+![Snipaste_2019-06-10_06-18-56](https://user-images.githubusercontent.com/35732922/59165031-d7255e00-8b47-11e9-8a5b-829b61afeb24.png)
 
 <details><summary>本地部署教程 click me! </summary>
  
