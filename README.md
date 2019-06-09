@@ -14,13 +14,13 @@
 * crx_header_invalid 解决方案的说明
 * 项目内置 probot 机器人，method 新增 战略家模式
 
-<details><summary> click me! </summary>
+* <details><summary>其他更新 click me! </summary>
 
-* 增加对虚拟电话注册方案的说明
-* 网页时光机以及查找相似站点
-* 利用个人博客作为连接互联网的中转
+    * 增加对虚拟电话注册方案的说明
+    * 网页时光机以及查找相似站点
+    * 利用个人博客作为连接互联网的中转
 
-</details>
+    </details>
 
 还精简了不必要重复的内容，图片使用 postimages 链接，内存占用30m降低到144kb，非常方便在线部署以及克隆与下载。
 
