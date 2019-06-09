@@ -32,7 +32,7 @@ fork 《这本书》 到你的 repo，并修改 docs/index.html，将`window.$do
 
 ![](https://user-images.githubusercontent.com/35732922/59164863-80b72000-8b45-11e9-8807-849ba56056f4.png)
 
-`settings -> GitHub Pages` 选择 `master brach/docs folder`
+在 settings 找到 GitHub Pages 并选择 `master brach/docs folder`
 
 ![](https://user-images.githubusercontent.com/35732922/59164963-e061fb00-8b46-11e9-9647-c827fa784e38.png)
 
