@@ -40,4 +40,4 @@
 * method 新增 战略家模式
 * 项目内置 probot 机器人
 
-精简不必要重复的内容，图片使用 postimages 链接，整体内存占用 30m -> 144kb，非常方便git clone与download；以上是所有更新内容，欢迎 fork 《这本书》！
+精简了不必要重复的内容，图片使用 postimages 链接，内存占用30m降低到144kb，非常方便git clone与download；以上是所有更新内容，欢迎 fork 《这本书》！
