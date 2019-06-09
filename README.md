@@ -53,10 +53,18 @@
 所需环境：[git](https://git-scm.com/)、[node](https://nodejs.org/zh-cn)；安装很简单一直 `下一步` 直到完成安装即可。
 
 * 右击选择`git bash`在命令行中输入 `npm i docsify-cli -g`
-* 点击`clone or download`接着再点击`DownloadZIP`下载压缩包
-* 解压缩后进入到`fq-book-master/docs`目录中右击打开`git bash`输入`docsify init .`
+* 点击`clone or download`下载`.zip` 并解压缩
+* 进入到`fq-book-master/docs`目录
+* 右击打开`git bash`输入`docsify init .`
+* 使用`docsify serve`完成本地部署
 
-* <details><summary>图示 click me! </summary>
+在浏览器中输入`localhost:3000`即可看到效果 :joy: 更多详细教程请看[docsify官网文档说明](https://docsify.js.org/)，当然，你也可以使用[wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf)  以及结合[tools.pdf24.org](https://tools.pdf24.org/zh/webpage-to-pdf)制作《这本书》的PDF
+
+## ***mind you*** 
+
+由于工作和学习第二语言（非计算机）以及制作[《失落的满大林》](https://hoodiearon.github.io/LostMandarin)等方面的原因，有兴趣的话，支持一下，给[LostMandarin](https://github.com/hoodiearon/LostMandarin)打赏个star，非常感谢你们。
+
+<!-- * <details><summary>本地部署图示 click me! </summary>
 
     ![](https://user-images.githubusercontent.com/35732922/59165501-28851b80-8b4f-11e9-9d59-ed6d4b098dae.png)
 
@@ -66,28 +74,6 @@
 
     ![](https://user-images.githubusercontent.com/35732922/59165460-7f3e2580-8b4e-11e9-883b-269d65576146.png)
 
-</details>
+    ![](https://user-images.githubusercontent.com/35732922/59165462-8e24d800-8b4e-11e9-89d8-8f62e7817808.png)
 
-完成以上步骤使用`docsify serve`完成本地部署，在浏览器中输入`localhost:3000`即可看到效果 :joy:
-
-![](https://user-images.githubusercontent.com/35732922/59165462-8e24d800-8b4e-11e9-89d8-8f62e7817808.png)
-
-
-更多详细教程请看[docsify官网文档说明](https://docsify.js.org/)，当然，你也可以使用[wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf)  以及结合[tools.pdf24.org](https://tools.pdf24.org/zh/webpage-to-pdf)制作《这本书》的PDF
-
-## ***mind you*** 
-
-由于工作和学习第二语言（非计算机）以及制作[《失落的满大林》](https://hoodiearon.github.io/LostMandarin)等方面的原因，有兴趣的话，支持一下，给[LostMandarin](https://github.com/hoodiearon/LostMandarin)打赏个star，非常感谢你们。
-
-<!-- ## ***update***
-
-《这本书能让你连接互联网》-> 《这本书能让你连接互联网 Ⅱ》
-
-* 增加部分上网方式以及相关软件配置操作
-* 增加对虚拟电话注册方案说明
-* crx_header_invalid 解决方案的说明
-* 网页时光机以及查找相似站点
-* method 新增 战略家模式
-* 项目内置 probot 机器人
-
-此外，还精简了不必要重复的内容，图片使用 postimages 链接，内存占用30m降低到144kb，非常方便克隆与下载；以上是所有更新要点，欢迎 fork 《这本书》！ -->
+</details> -->
