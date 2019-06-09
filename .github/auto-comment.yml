@@ -15,9 +15,9 @@ issuesOpened: >
     **注意: `docsify init .` 会格式化（初始化）index.html 配置文件，直接`docsify serve`部署即可 ╮(╯▽╰)╭**
     
     ![](https://i.loli.net/2019/06/07/5cfa7580dd37a85112.gif)
-
     -- 超时空战士 屌丝plus 作者 by [hoodiearon（渡鸦）](https://hoodiearon.github.io/)
 
-#pullRequestOpened: >
-#  Thank your for raising your pull request.
-#  Please make sure you have followed our contributing guidelines. We will review it as soon as possible
+issuesClosed: >
+  十分的有趣！
+  
+  ![v2-f24_hd](https://img.techpowerup.org/190609/v2an.jpg)
