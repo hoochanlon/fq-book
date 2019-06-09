@@ -56,19 +56,19 @@
 * 点击`clone or download`接着再点击`DownloadZIP`下载压缩包
 * 解压缩后进入到`fq-book-master/docs`目录中右击打开`git bash`输入`docsify init .`
 
-<details><summary>图示 click me! </summary>
+* <details><summary>图示 click me! </summary>
 
-![](https://user-images.githubusercontent.com/35732922/59165501-28851b80-8b4f-11e9-9d59-ed6d4b098dae.png)
+    ![](https://user-images.githubusercontent.com/35732922/59165501-28851b80-8b4f-11e9-9d59-ed6d4b098dae.png)
 
-![](https://user-images.githubusercontent.com/35732922/59165492-ec51bb00-8b4e-11e9-8d76-a0c80bab0e2e.png)
+    ![](https://user-images.githubusercontent.com/35732922/59165492-ec51bb00-8b4e-11e9-8d76-a0c80bab0e2e.png)
 
-![](https://user-images.githubusercontent.com/35732922/59165454-5cac0c80-8b4e-11e9-9a80-0c7582e839dc.png)
+    ![](https://user-images.githubusercontent.com/35732922/59165454-5cac0c80-8b4e-11e9-9a80-0c7582e839dc.png)
 
-![](https://user-images.githubusercontent.com/35732922/59165460-7f3e2580-8b4e-11e9-883b-269d65576146.png)
+    ![](https://user-images.githubusercontent.com/35732922/59165460-7f3e2580-8b4e-11e9-883b-269d65576146.png)
 
 </details>
 
-* 接着使用`docsify serve`完成本地部署，在浏览器中输入`localhost:3000`即可看到效果 :joy:
+完成以上步骤使用`docsify serve`完成本地部署，在浏览器中输入`localhost:3000`即可看到效果 :joy:
 
 ![](https://user-images.githubusercontent.com/35732922/59165462-8e24d800-8b4e-11e9-89d8-8f62e7817808.png)
 
