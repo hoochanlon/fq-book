@@ -3,7 +3,11 @@
 |[![cc](https://i.creativecommons.org/l/by-nc/4.0/80x15.png)](http://creativecommons.org/licenses/by-nc/4.0/)|[![fq-book](https://img.shields.io/badge/%F0%9F%93%96book-fq--book-red.svg?longCache=true&style=flat-square)](https://hoodiearon.github.io/fq-book)|[![docsify](https://img.shields.io/badge/%F0%9F%93%96docs-docsify-brightgreen.svg?longCache=true&style=flat-square)](https://docsify.js.org/)|[![blog](https://img.shields.io/badge/%F0%9F%94%97blog-hoodiearon-lightgrey.svg?longCache=true&style=flat-square)](https://hoodiearon.github.io/)|[![outlook](https://img.shields.io/badge/%F0%9F%93%A7hotmail-@邮箱联系-blue.svg?longCache=true&style=flat-square)](mailto:hoodiearon@outlook.com)|[![telegram](https://img.shields.io/badge/telegram-:me-blue.svg?longCache=true&style=flat-square)](https://t.me/hoodiearon)
 |:-:|:-:|:-:|:-:|:-:|:-:|
 
-本书着重于上网的方式与获取网站信息的技巧，并对相关流行且主要且典型的软件做简要的上手配置，以及原理的相关说明。《这本书能让你连接互联网》-> 《这本书能让你连接互联网 Ⅱ》的更新要点：
+本书着重于上网的方式与获取网站信息的技巧，并对相关流行且主要且典型的软件做简要的上手配置，以及原理的相关说明。
+
+## ***update***
+
+《这本书能让你连接互联网》-> 《这本书能让你连接互联网 Ⅱ》的更新要点：
 
 * 增加部分上网方式以及相关软件配置操作
 * 增加对虚拟电话注册方案说明
@@ -13,7 +17,7 @@
 
 还精简了不必要重复的内容，图片使用 postimages 链接，内存占用30m降低到144kb，非常方便在线部署以及克隆与下载。
 
-## usage
+## ***usage***
 
 fork 该项目
 
