@@ -63,18 +63,12 @@
 
 ## ***mind you*** 
 
-由于工作和学习第二语言（非计算机）以及制作[《失落的满大林》](https://hoodiearon.github.io/LostMandarin)等方面的原因，有兴趣的话，支持一下，给[LostMandarin](https://github.com/hoodiearon/LostMandarin)打赏个star，非常感谢你们。
+科学上网仅为研究需要，以下是免责声明：
 
-<!-- * <details><summary>本地部署图示 click me! </summary>
+* 本书面向海外华人用户且仅供科研与学习，切勿用于其他用途
+* 中国居民请自觉关闭本书并24小时内删掉与此相关的所有内容，否则出现一切后果本书作者概不负责
 
-    ![](https://user-images.githubusercontent.com/35732922/59165501-28851b80-8b4f-11e9-9d59-ed6d4b098dae.png)
+© 2019 [hoodiearon](https://github.com/hoodiearon)
 
-    ![](https://user-images.githubusercontent.com/35732922/59165492-ec51bb00-8b4e-11e9-8d76-a0c80bab0e2e.png)
 
-    ![](https://user-images.githubusercontent.com/35732922/59165454-5cac0c80-8b4e-11e9-9a80-0c7582e839dc.png)
 
-    ![](https://user-images.githubusercontent.com/35732922/59165460-7f3e2580-8b4e-11e9-883b-269d65576146.png)
-
-    ![](https://user-images.githubusercontent.com/35732922/59165462-8e24d800-8b4e-11e9-89d8-8f62e7817808.png)
-
-</details> -->
