@@ -59,7 +59,9 @@
 * 使用`docsify serve`完成本地部署
 * 在浏览器中输入`localhost:3000`即可看到效果 :joy: 
 
-关于更多详细，请看[docsify官网文档](https://docsify.js.org/);当然，也可使用[wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf)  以及结合[tools.pdf24.org](https://tools.pdf24.org/zh/webpage-to-pdf)制作《这本书》的PDF
+关于更多详细，请看[docsify官网文档](https://docsify.js.org/)
+
+当然，也可使用[wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf)  以及结合[tools.pdf24.org](https://tools.pdf24.org/zh/webpage-to-pdf)制作《这本书》的PDF
 
 ## ***mind you*** 
 
