@@ -74,9 +74,11 @@ cd fq-book
 git remote add upstream https://github.com/hoodiearon/fq-book.git
 git fetch upstream
 git reset --hard upstream/master
+# **对Git有所了解的话，建议还是使用：`git pull upstream master --allow-unrelated-histories` 以阅览代码变更的形式更新；
+# **更多说明请看[Git 官方文档](https://git-scm.com/book/zh/v2)**
 ```
 
-**对Git有所了解的话，建议还是使用：`git pull upstream master --allow-unrelated-histories` 以阅览代码变更的形式更新；更多说明请看[Git 官方文档](https://git-scm.com/book/zh/v2)** 
+ 
 
 #### 提交到自己的repo
 
