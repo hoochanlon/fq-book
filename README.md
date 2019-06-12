@@ -42,10 +42,11 @@
 
 </details>
 
-预览
+<details><summary>预览 click me! </summary>
+
 
 ![Snipaste_2019-06-10_06-18-56](https://user-images.githubusercontent.com/35732922/59165031-d7255e00-8b47-11e9-8a5b-829b61afeb24.png)
-
+</details>
 
 ### 本地部署
 
