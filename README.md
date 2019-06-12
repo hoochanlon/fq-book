@@ -74,13 +74,9 @@ cd fq-book
 git remote add upstream https://github.com/hoodiearon/fq-book.git
 git fetch upstream
 git reset --hard upstream/master
-# **对Git有所了解的话，建议还是使用：`git pull upstream master --allow-unrelated-histories` 以阅览代码变更的形式更新；
-# **更多说明请看[Git 官方文档](https://git-scm.com/book/zh/v2)**
+# 对Git有所了解的话，建议还是使用：`git pull upstream master --allow-unrelated-histories` 以审查代码的形式更新
 ```
-
- 
-
-#### 提交到自己的repo
+提交到自己的repo
 
 ```
 git add .
@@ -88,7 +84,7 @@ git commit -m "test"
 git push
 ```
 
-输入账号&密码即可上传到自己repo完成Github账户仓库远程更新。
+输入账号&密码即可上传到自己repo完成Github账户仓库远程更新。**更多说明请看[Git 官方文档](https://git-scm.com/book/zh/v2)**
 
 <details><summary>获取更新图示 click me! </summary>
 
