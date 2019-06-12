@@ -78,19 +78,23 @@
 
 获取更新其实非常简单，在fork的基础上
 
-1. `git clone https://github.com/你的github用户名/fq-book.git`
-1. `cd fq-book`
-1. `git remote add upstream https://github.com/hoodiearon/fq-book.git`
-1. `git fetch upstream`
-1. `git reset --hard upstream/master`
+```
+git clone https://github.com/你的github用户名/fq-book.git
+cd fq-book
+git remote add upstream https://github.com/hoodiearon/fq-book.git
+git fetch upstream
+git reset --hard upstream/master
+```
 
 **对Git有所了解的话，建议还是使用：`git pull upstream master --allow-unrelated-histories` 以阅览代码变更的形式更新；更多说明请看[Git 官方文档](https://git-scm.com/book/zh/v2)** 
 
 #### 提交到自己的repo
 
-1. `git add .`
-1. `git commit -m "test"`
-1. `git push`
+```
+git add .
+git commit -m "test"
+git push
+```
 
 输入账号&密码即可上传到自己repo完成Github账户仓库远程更新。
 
