@@ -84,7 +84,7 @@ git reset --hard upstream/master
 ```
 git add .
 git commit -m "test"
-# 推荐：git push -u --force-with-lease origin master，以下命令只适合新手或强制！
+# 此指令只方便newbie或不得已的强制；会些Git还是推荐：git push -u --force-with-lease origin master
 git push -u -f origin master  
 ```
 
