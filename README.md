@@ -87,7 +87,7 @@ git push
 
 输入账号&密码即可上传到自己repo完成Github账户仓库远程更新。**更多说明请看[Git 官方文档](https://git-scm.com/book/zh/v2)**
 
-<details><summary>获取更新图示 click me! </summary>
+<details><summary>更新图示 click me! </summary>
 
 ![](https://i.postimg.cc/YSY78GPL/Snipaste-2019-06-12-15-59-16.png)
 
