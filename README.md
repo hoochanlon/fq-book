@@ -64,6 +64,54 @@
 
 当然，也可使用[wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf)  以及结合[tools.pdf24.org](https://tools.pdf24.org/zh/webpage-to-pdf)制作《这本书》的PDF
 
+### 获取更新：
+
+以01user为例，在本地部署《这本书》时，旧版图链已经失效了，Ⅱ版已经采用 postimage 支持。这个时候就需要升级成 《这本书Ⅱ》
+
+<details><summary> 旧版图链已经失效 </summary>
+
+![](https://i.postimg.cc/59znJSKZ/Snipaste-2019-06-12-14-22-34.png)
+
+</details>
+
+#### 升级
+
+获取更新其实非常简单，在fork的基础上
+
+1. `git clone https://github.com/你的github用户名/fq-book.git`
+1. `cd fq-book`
+1. `git remote add upstream https://github.com/hoodiearon/fq-book.git`
+1. `git fetch upstream`
+1. `git reset --hard upstream/master`
+
+**对Git有所了解的话，建议还是使用：`git pull upstream master --allow-unrelated-histories` 以阅览代码变更的形式更新；更多说明请看[Git 官方文档](https://git-scm.com/book/zh/v2)** 
+
+#### 提交到自己的repo
+
+1. `git add .`
+1. `git commit -m "test"`
+1. `git push`
+
+输入账号&密码即可上传到自己repo完成Github账户仓库远程更新。
+
+<details><summary>获取更新图示 click me! </summary>
+
+![](https://i.postimg.cc/YSY78GPL/Snipaste-2019-06-12-15-59-16.png)
+
+![](https://i.postimg.cc/pTrZRztp/Snipaste-2019-06-12-16-40-01.png)
+
+部署测试
+
+![](https://i.postimg.cc/dV1tRjrW/Snipaste-2019-06-12-16-42-04.png)
+
+提交到repo
+
+![](https://i.postimg.cc/tRkjrVX8/Snipaste-2019-06-12-16-43-37.png)
+
+</details>
+
+
+
 ## ***mind you*** 
 
 本书允许演绎及共享但禁止商用，科学上网仅为研究需要，以下是免责声明：
