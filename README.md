@@ -66,17 +66,7 @@
 
 ### 获取更新
 
-以01user为例，在本地部署时，旧版图链已经失效了，Ⅱ版已经采用 postimage 支持；此时就需升级成 《这本书Ⅱ》
-
-<details><summary> 旧版图链已经失效 </summary>
-
-![](https://i.postimg.cc/59znJSKZ/Snipaste-2019-06-12-14-22-34.png)
-
-</details>
-
-#### 升级
-
-获取更新其实非常简单，在fork的基础上
+以01user为例，在本地部署时，旧版图链已经失效了，Ⅱ版已经采用 postimage 支持；此时就需升级成 《这本书Ⅱ》,获取更新其实非常简单，在fork的基础上，执行以下指令
 
 ```
 git clone https://github.com/你的github用户名/fq-book.git
