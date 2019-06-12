@@ -84,7 +84,8 @@ git reset --hard upstream/master
 ```
 git add .
 git commit -m "test"
-git push
+# 推荐：git push -u --force-with-lease origin master，以下命令只适合新手或强制！
+git push -u -f origin master  
 ```
 
 输入账号&密码即可上传到自己repo完成Github账户仓库远程更新。**更多说明请看[Git 官方文档](https://git-scm.com/book/zh/v2)**
