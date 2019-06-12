@@ -73,9 +73,11 @@
 git clone https://github.com/你的github用户名/fq-book.git
 cd fq-book
 git remote add upstream https://github.com/hoodiearon/fq-book.git
+# 若需必要的分支变更，还是使用合适： git fetch --all
 git fetch upstream
-git reset --hard upstream/master
 # 对Git有所了解的话，建议还是使用：`git pull upstream master --allow-unrelated-histories` 以审查代码的形式更新
+git reset --hard upstream/master
+
 ```
 提交到自己的repo
 
