@@ -27,7 +27,7 @@
 
 ## ***usage***
 
-### 在线部署：
+### 在线部署
 
 1. fork 《这本书》 到你的 repo
 2. 修改 docs/index.html 将`window.$docsify = {}` 的`repo` 修改成你的 repo
@@ -64,7 +64,7 @@
 
 当然，也可使用[wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf)  以及结合[tools.pdf24.org](https://tools.pdf24.org/zh/webpage-to-pdf)制作《这本书》的PDF
 
-### 获取更新：
+### 获取更新
 
 以01user为例，在本地部署《这本书》时，旧版图链已经失效了，Ⅱ版已经采用 postimage 支持。这个时候就需要升级成 《这本书Ⅱ》
 
