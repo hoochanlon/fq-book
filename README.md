@@ -7,6 +7,12 @@
 
 本书着重于上网的方式与获取信息的技巧，并对相关流行且典型的软件做简要的上手配置，以及原理的相关说明。
 
+* [导读](docs/README.md)
+* [目录](docs/_sidebar.md)
+* [后记](docs/postscript.md)
+
+btw，《这本书》示例的多数网址，以及更多的站点资料收录在 [WebSiteOutlook](https://github.com/hoodiearon/WebSiteOutlook) 存储库，相互搭配效果会更好！
+
 ## ***update***
 
 《这本书能让你连接互联网》-> 《这本书能让你连接互联网 Ⅱ》的更新要点：
