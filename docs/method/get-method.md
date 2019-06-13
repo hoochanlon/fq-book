@@ -88,9 +88,11 @@ ps：关于更详细的站点收录，请点击参考此github项目[WebSiteUseO
 * **战略家模式**
 
    **先抛砖引玉吧：**
+
     * [如何着手分析一个行业？](https://www.zhihu.com/question/20219092)
     * [行业分析，就这个框架就够了](https://zhuanlan.zhihu.com/p/42983413)
     * [如何快速地了解一个陌生行业/领域？](https://www.zhihu.com/question/19698319)
+    * [知乎免登录的方法 - chromecj插件网](http://chromecj.com/productivity/2019-05/2681.html)
    
     **这个“玉”就是你自己！收集各类相关资料并结合word、excel、ppt、mind、uml等相关软件进行数据分析，与同好朋友或是网络、软件相关人探讨并以实践加以论证**
 
