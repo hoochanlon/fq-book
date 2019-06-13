@@ -39,7 +39,7 @@
 * 使用网站
   * [搜索站点](web/searchtools.md)
   * [网页时光机](web/web-archive.md)
-  * [利用个人博客](web/use-blog.md)
+  * [利用个人博客及视频平台](web/use-blog.md)
   * [网页代理的使用](web/web-proxy.md)
   * [heroku搭建ss服务器](web/ss-4-heroku.md)
   * [heroku搭建v2ray服务器](web/v2ray-4-heroku.md)
