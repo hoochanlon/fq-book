@@ -62,9 +62,9 @@ ps：关于更详细的站点收录，请点击参考此github项目[WebSiteUseO
 
  ?> 较多数爱国软件会限制中国用户，建议更安卓手机地区首选项语言，例如修改成含有中文的国家：新加坡；共享 PC 互联网网络，再利用原生安卓系统下载Google商店安装并下载相关代理或VPN软件。ps：手机没有刷权限的话，选择免费翻墙工具进行科学上网，那就请使用谷歌空间、Turbo、ssr吧。
 
-* 个人博客
+* 个人博客及视频平台
 
- 一些私人博客出于某种目的（技术分享，客流营销），为了吸引更多的访客，也会开放几个代理节点分享，即使需要注册的，最多个临时邮箱注册后拿来用就行了。
+ 一些私人博客出于某种目的（技术分享，客流营销），为了吸引更多的访客，也会开放几个代理节点分享，即使需要注册的，最多个临时邮箱注册后拿来用就行了；油管up主也会制作许多翻墙教程，这里示例一个油管up主：[浪漫生活](https://www.youtube.com/channel/UCCHgXss80ZgWlwGCDDnZ5tg)
 
 * 社会工程学
 
@@ -72,7 +72,7 @@ ps：关于更详细的站点收录，请点击参考此github项目[WebSiteUseO
 
 * 求助网络
 
-    用社交软件或是问答、综合社区等进行相关求助，如果你只能在国内局域网环境，这个方法也是效果最差的了...不过，你可以这样做，下载[teleplus](https://play.google.com/store/apps/details?id=in.teleplus&hl=zh)这套着内置代理壳等软件进行订阅相关爱国上网分享频道：
+    用**社交软件或是问答、综合社区**等进行相关求助，如果你只能在国内局域网环境，这个方法也是效果最差的了...不过，你可以这样做，下载[teleplus](https://play.google.com/store/apps/details?id=in.teleplus&hl=zh)这套着内置代理壳等软件进行订阅相关爱国上网分享频道：
     * [SSR V2ray Share](https://t.me/freeshadowsock)
     * [V2ray,Vmess免费节点发放](https://t.me/V2list)
     * [免费vpn评测](https://t.me/vpnchina)
