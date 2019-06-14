@@ -69,6 +69,7 @@
 * 仅作了解
 
   * [goagent](only/goagent.md)
+  * [gatherproxy](only/gatherproxy.md)
   * [CoNET](only/qtgate.md)
   * [brook](only/brook.md)
   * [reqrypt](only/reqrypt.md)
