@@ -2,7 +2,7 @@
 
 !> 如今，代理服务器列表测试时效性过低，连接互联网也并不理想（属于中彩票的那种呃...），因此，那就仅当做了解就好了。
 
-进入这个网址
+进入 [gatherproxy](http://www.gatherproxy.com/) 网址代理服务器列表
 
 ![](https://i.postimg.cc/bJ7bFNmk/Snipaste-2019-06-14-13-24-29.png)、
 
