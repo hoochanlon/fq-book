@@ -64,7 +64,7 @@ ps：关于更详细的站点收录，请点击参考此github项目[WebSiteUseO
 
 * 个人博客及视频平台
 
- 一些私人博客出于某种目的（技术分享，客流营销），为了吸引更多的访客，也会开放几个代理节点分享，即使需要注册的，最多个临时邮箱注册后拿来用就行了；油管up主也会制作许多翻墙教程，这里示例一个油管up主：[浪漫生活](https://www.youtube.com/channel/UCCHgXss80ZgWlwGCDDnZ5tg)
+ 一些私人博客出于某种目的（技术分享，客流营销），为了吸引更多的访客，也会开放几个代理节点分享，即使需要注册的，最多个临时邮箱注册后拿来用就行了；油管up主也会制作许多翻墙教程，这里推荐油管up主，作为示例：[浪漫生活](https://www.youtube.com/channel/UCCHgXss80ZgWlwGCDDnZ5tg)、[ImShuker](https://www.youtube.com/channel/UCOe8kqJurA5WOzgC0pbjc2Q)
 
 * 社会工程学
 
