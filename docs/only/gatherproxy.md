@@ -4,7 +4,7 @@
 
 进入 [gatherproxy](http://www.gatherproxy.com/) 网址代理服务器列表
 
-![](https://i.postimg.cc/bJ7bFNmk/Snipaste-2019-06-14-13-24-29.png)、
+![](https://i.postimg.cc/bJ7bFNmk/Snipaste-2019-06-14-13-24-29.png)
 
 选择 `proxy checker` 并下载 GatherProxyer
 
