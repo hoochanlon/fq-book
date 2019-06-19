@@ -45,3 +45,5 @@
 * [SS二级（前置）代理设置实现中转加速观看BBC iPlayer](https://www.itengli.com/ss-relay/)
 * [浅谈HTTP劫持、DNS污染的影响及解决办法（仅个人理解）](https://doubibackup.com/6t3mypbm-5.html)
 * [关于目前 GFW(墙) 的封锁方式TCP封锁(阻断)猜想](https://doubibackup.com/wkcjzpyd-2.html)
+* [计算机网络基础知识](https://blog.csdn.net/A993852/article/details/90954068)
+* [集群、分布式、负载均衡区别](https://www.cnblogs.com/xzwblog/p/7255364.html)
