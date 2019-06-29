@@ -22,21 +22,22 @@
 
 !> 注意下方图片荧光笔标记部分的说明
 
-`Remote Access Connection Manager`
+`win + r -> cmd -> services.msc  -> Remote Access Connection Manager`
 
 ![](https://i.postimg.cc/XNpDqPNx/Snipaste-2019-06-30-00-22-10.png)
 
-`DHCP Client`
+`win + r -> cmd -> services.msc -> DHCP Client`
 
 ![](https://i.postimg.cc/C16PJG7j/2019-06-30-002835.png)
 
 只要客户端状态是自动获取IP地址，开启DHCP后，服务器端就会对客户端动态分配IP。如果客户端是手动配置好的IP，那么它就不会再到服务器端申请IP地址了；关闭DHCP后，客户端自动获取IP地址的请求没有服务器响应，自然无法远程分配的IP。
 
-这也就是连上了 VPN 也上不了网的原因，连局域网（中国互联网）都连接不上，更别说进 Google 了
+这也就是连上了 VPN 也上不了网的原因，连局域网（中国互联网）都连接不上，更别说进 Google 了。顺带安利两篇关于DHCP的文章：
 
-?> `netsh winsock reset` 对系统只能打开命令窗口而不能打开其他任何软件也有奇效 :-Oヾ(o◕∀◕)ﾉヾ！
+* [扫盲：DHCP分配形式](http://server.51cto.com/sCollege-147540.htm)
+* [dhcp应该开启还是关闭_dhcp关闭会怎么样](http://www.elecfans.com/baike/wangluo/luyouqi/20180307644000.html)
 
-觉得还不够的话，cmd 键入 `netsh winsock reset` 开机再以 `ipconfig /flushdns`
+?> 觉得还不够的话，cmd 键入 `ipconfig /flushdns`； `netsh winsock reset` 此指令对不能打开作业系统之外的其他任何软件也有奇效 :-Oヾ(o◕∀◕)ﾉヾ！
 
 ![](https://i.postimg.cc/sXfNPbS8/Snipaste-2019-06-12-11-28-17.png)
 
