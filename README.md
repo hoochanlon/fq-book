@@ -20,6 +20,8 @@
 * 收录ss前置原理以及推断gfw运作模式
 * 增加相关上网方式以及软件配置操作
 * crx_header_invalid 解决方案的说明
+* VPN连接上服务器却无法访问任何网页及其他网络
+* Windows 无法设置系统代理的问题
 * 项目内置 probot 机器人，method 新增 战略家模式
 
 * <details><summary>其他更新 click me! </summary>
