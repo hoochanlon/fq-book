@@ -36,7 +36,10 @@
 
 如果连接不上，那换一个服务器连接测试，即可
 
+!> 也有可能存在恶意禁用的问题，详情请看：[简谈国产杀软 - 恶意禁用连接互联网服务问题](append/guochan-sharuan?id=恶意禁用连接互联网服务问题)
+
 ![](https://i.postimg.cc/T3RbDfrP/Snipaste-2019-06-07-08-54-24.png)
+
 
 ## GateVPN
 
