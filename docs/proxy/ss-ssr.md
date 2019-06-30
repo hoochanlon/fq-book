@@ -2,10 +2,10 @@
 
 
 !>  简单来说代理与VPN的最大区别就在于代理不会虚拟一块独立的网卡<br>
-  多数免费代理与VPN是严格[NAT类型](4nat.md)，以限制游戏与下载等操作<br>
+  多数免费代理与VPN是严格[NAT类型](/abc/4nat.md)，以限制游戏与下载等操作<br>
  一些朋友可能对连接互联网的网速要求较高，可使用[speedtest](http://www.speedtest.net/)进行测试<br>
  ssr可以使用ss链接与二维码，反之是不行的，且ss只能连接兼容ss的服务器<br>
- 若想较为深入的了解ss链接的含义，[请参考ss、ssr、v2ray链接解析章节](srvurl.md)<br>
+ 若想较为深入的了解ss链接的含义，[请参考ss、ssr、v2ray链接解析章节](/append/srvurl.md)<br>
  ss与ssr都做了socks代理端口对http协议的兼容，所以并不需要额外的代理转发<br>
  全局模式即被的代理软件所有网络均走代理路线，直连模式即正常访问不走任何代理<br>
 

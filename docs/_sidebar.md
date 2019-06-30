@@ -8,6 +8,10 @@
   * [注意事项](look/notice.md)
   * [隐私防护](look/nsfw.md)
 
+* 快速开始
+
+  * [快速入手](qintro/quickstart.md)
+
 * DNS与Hosts
 
   * [DNSCrypt](dns&hosts/dnscrypt.md)
