@@ -23,9 +23,19 @@
 
 ?> 快速开始仅为速成互联，关于科学上网的细节原理等各方面的解释，可参考书中科学普及与细节补充等相关章节
 
+<!-- 
+## 速成示例
 
-<!-- ## 速成示例
+利用[jsproxy](https://github.com/EtherDream/jsproxy/) 项目提供的[web代理网址](https://jsproxy.ga/)，在此基础上又嵌套一个web代理 [croxyproxy](https://www.croxyproxy.com/) 用来加载科学上网服务器网站的节点信息。
 
-skyzip
+?> 嵌套的原因是：虽然有些web代理没被墙，但并不会完全加载各个网站的相关脚本等其他代码，所以就用到其他web代理（也有很多被墙的）作为嵌套使用。
 
-![]() -->
+![]()
+
+从 173app 下载 skyzip
+
+![]()
+
+以解压缩的形式安装
+
+switchomeya -->
