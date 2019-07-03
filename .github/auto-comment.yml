@@ -1,7 +1,7 @@
 # Comment to a new issue.
 issuesOpened: >
   ### 人工智障机器人 屌丝plus 提示：
-    关于本地部署后，侧边栏只有一项[前言]，先检查js代码块字符是否正确，`loadSidebar:true`是否一致，浏览器缓存是否清理；或换个浏览器。
+    关于本地部署后，侧边栏只有一项[前言]，先检查js代码块字符是否正确，`loadSidebar:true`是否一致，浏览器缓存是否清理；或换个浏览器吧。
     ```
     <script>
       window.$docsify = {
