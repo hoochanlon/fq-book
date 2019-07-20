@@ -44,8 +44,10 @@
 >
 > ——摘自 维基百科
 
-搜索效果很不错，数据很全面，但会不会同[startpage](https://www.startpage.com/)被GFW封杀，也是有点悬的问题。
+搜索效果很不错，数据很全面
 
 <!-- ![](https://ipfs.io/ipfs/QmZbGQihNC8zKhBxFxNc7jWtF3qML4jfjXE7aCwozQRQPg?1.png) -->
 
 ![](https://i.postimg.cc/GhWSxRxK/2018-05-01-084517.png)
+
+但会不会同[startpage](https://www.startpage.com/)被GFW封杀，也是有点悬的问题，也许它只想让我们不准看、不准听、不准听，喜迎油价上涨地着老大哥的[www.baidu.com](https://www.baidu.com)
