@@ -44,7 +44,7 @@
 >
 > ——摘自 维基百科
 
-搜索效果很不错，数据很全面，推荐！
+搜索效果很不错，数据很全面，但会不会同[startpage](https://www.startpage.com/)被GFW封杀，也是有点悬的问题。
 
 <!-- ![](https://ipfs.io/ipfs/QmZbGQihNC8zKhBxFxNc7jWtF3qML4jfjXE7aCwozQRQPg?1.png) -->
 
