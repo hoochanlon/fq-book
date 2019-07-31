@@ -11,7 +11,7 @@
 * [目录](docs/_sidebar.md)
 * [后记](docs/postscript.md)
 
-**《这本书》示例的多数网址，以及更多资料收录在 [WebSiteOutlook](https://github.com/hoodiearon/WebSiteOutlook) ，书中的相关章节搭配存储库 `科学上网` 效果会更好！**
+**《这本书》示例的多数网址，以及更多资料收录在 [WebOutlook](https://github.com/hoodiearon/WebOutlook) ，书中的相关章节搭配存储库 `科学上网` 效果会更好！**
 
 ## ***update***
 
