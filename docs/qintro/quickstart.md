@@ -26,7 +26,7 @@
 
 ## 速成示例
 
-速成示例作业站点由 [WebSiteOutlook](https://github.com/hoodiearon/WebSiteOutlook) 提供支持
+速成示例作业站点由 [WebOutlook](https://github.com/hoodiearon/WebOutlook) 提供支持
 
 ![](https://i.postimg.cc/Fz2bDWSs/Snipaste-2019-07-01-04-27-55.png)
 
