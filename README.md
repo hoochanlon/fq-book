@@ -73,7 +73,13 @@
 
 关于更多详细，请看[docsify官网文档](https://docsify.js.org/)
 
-当然，也可使用[wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf)  以及结合[tools.pdf24.org](https://tools.pdf24.org/zh/webpage-to-pdf)制作《这本书》的PDF
+使用[Offline Explorer](https://www.52pojie.cn/thread-790037-1-1.html)可将《这本书》的整个网页内容下载到本地，进行离线观看
+
+当然，也可选择将该书docsify类型转换为gitbook生成格式，并用其自带的命令制作《这本书》的PDF
+
+<!-
+也可使用[wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf)  以及结合[tools.pdf24.org](https://tools.pdf24.org/zh/webpage-to-pdf)制作《这本书》的PDF
+-->
 
 ### 获取更新
 
