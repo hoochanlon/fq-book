@@ -83,7 +83,7 @@
 
 ### 获取更新
 
-以01user为例，在本地部署时，旧版图链已经失效了，Ⅱ版已经采用 postimage 支持；此时就需升级成 《这本书Ⅱ》,获取更新其实非常简单，在fork的基础上，执行以下指令
+以01user为例，在本地部署时，旧版图链已经失效了，新版已经采用 postimage 支持；此时就需升级成 《这本书Ⅱ》,获取更新其实非常简单，在fork的基础上，执行以下指令
 
 ```
 git clone https://github.com/你的github用户名/fq-book.git
@@ -104,7 +104,16 @@ git commit -m "test"
 git push -u -f origin master  
 ```
 
-输入账号&密码即可上传到自己repo完成Github账户仓库远程更新。**更多作业指令操作说明，请看[Git 官方文档](https://git-scm.com/book/zh/v2)**
+输入账号&密码即可上传到自己repo完成Github账户仓库远程更新。**更多作业指令操作说明，请看[Git 官方文档](https://git-scm.com/book/zh/v2)**，在特殊情况，有可能需要涉及到代理设置
+
+```
+# 代理设置
+git config --global http.proxy 'socks5://127.0.0.1:1080'
+git config --global https.proxy 'socks5://127.0.0.1:1080'
+# 取消代理
+git config --global --unset https.proxy 'socks5://127.0.0.1:1080'
+git config --global --unset http.proxy 'socks5://127.0.0.1:1080'
+```
 
 <details><summary>更新图示 click me! </summary>
 
