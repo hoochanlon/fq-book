@@ -4,7 +4,7 @@
 由于部署项目可改写相关代码的原因，资助之类的二维码，并不是原作者或该站所有者本人，也就是说用此筹众敛财罢了；有些coder或是维护人员不了解也不注重网页优化。因此，有些部署在云平台上的网址是无法被搜索引擎抓取到的。<br><br>
 不过，输入一些关键词，在云平台二级域名却很容易找到，示例在以下herokuapp主题中； 可以说此类网址有点类似暗网的隐蔽性质，仅个人认为用deep network描述它比较合适点。<br><br>
 涉及到的相关站点与软件，只是方法中一个具体的示例，关于此类站点或软件还有很多，随着社会逐移的加速发展，部分站点可能会失效。<br><br>
-ps：关于更详细的站点收录，请点击参考此github项目[WebSiteUseOutlook](https://github.com/hoodiearon/WebSiteOutlook)
+ps：关于更详细的站点收录，请点击参考此github项目[w3-goto-world](https://github.com/hoodiearon/w3-goto-world)
 
 * doub
 

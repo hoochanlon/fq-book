@@ -38,6 +38,7 @@
 
   * [Betternet](vpn/betternet.md)
   * [典型VPN概览](vpn/classical-vpn.md)
+  * [wireguard](vpn/wireguard.md)
   * [付费VPN参考清单](vpn/pay-vpn.md)
 
 * 使用网站
@@ -97,7 +98,7 @@
   * [用Win7，电脑就是路由器](append/win7-wifi.md)
 
 * 逗比
-  * [一个逗比影响了很多很多人](doub/init_doub.md)
+  * [逗比rip](doub/init_doub.md)
   * [关于目前 GFW(墙) 的封锁方式TCP封锁(阻断)猜想](doub/wkcjzpyd-2.md)
   * [浅谈HTTP劫持、DNS污染的影响及解决办法](doub/6t3mypbm-5.md)
 
