@@ -17,4 +17,6 @@ VPN、Proxy不时也会出现新应用，操作方式多数基本也大同小异
 
 ### 推广
 
-新书 [《桌面运维管理指南》](https://hoochanlon.github.io/helpdesk-manual/)已发布，社会工程章节培训机构PUA手法运营剖析、中小外包公司业务解构、换位思考解读HR，社会工程学入门实践，反欺骗研究。欢迎Star 
+新书 [《桌面运维管理指南》](https://hoochanlon.github.io/helpdesk-manual/)已发布，新增特别篇社会工程章节，防“招转培”培训借贷欺诈套路，并换位思考解读HR，反欺骗研究社会工程学入门实践。应届及无经验往届生、转行新人求职就业，也能从中受益。
+
+欢迎Star & fork [helpdesk-manual](https://github.com/hoochanlon/helpdesk-manual) 项目！
