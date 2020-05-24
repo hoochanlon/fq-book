@@ -17,6 +17,6 @@ VPN、Proxy不时也会出现新应用，操作方式多数基本也大同小异
 
 ### 推广
 
-新书 [《桌面运维管理指南》](https://hoochanlon.github.io/helpdesk-manual/)已发布，新增特别篇社会工程章节，防“招转培”[培训机构PUA运营模式借贷欺诈套路](https://hoochanlon.github.io/helpdesk-manual/notice/ti-analysis.html#%E5%9F%B9%E8%AE%AD%E6%9C%BA%E6%9E%84%E5%AF%B9pua%E5%BA%94%E7%94%A8%E8%B0%83%E6%9F%A5)，并[换位思考解读HR](https://hoochanlon.github.io/helpdesk-manual/notice/interview.html#hr%E7%9A%84%E8%AE%A4%E7%9F%A5%E5%81%8F%E5%B7%AE%E5%BD%92%E5%9B%A0)，反欺骗研究社会工程学入门实践。低学历应届及无经验往届生、转行新人求职就业，也能从中受益。
+新书 [《桌面运维管理指南》](https://hoochanlon.github.io/helpdesk-manual/)已发布，新增特别篇社会工程章节，防“招转培”[培训机构PUA运营模式借贷欺诈套路](https://hoochanlon.github.io/helpdesk-manual/notice/ti-analysis.html#%E5%9F%B9%E8%AE%AD%E6%9C%BA%E6%9E%84%E5%AF%B9pua%E5%BA%94%E7%94%A8%E8%B0%83%E6%9F%A5)，并[换位思考解读HR](https://hoochanlon.github.io/helpdesk-manual/notice/interview.html#hr%E7%9A%84%E8%AE%A4%E7%9F%A5%E5%81%8F%E5%B7%AE%E5%BD%92%E5%9B%A0)，反欺骗研究，社会工程学入门实践。低学历应届及无经验往届生、转行新人求职就业，也能从中受益。
 
 欢迎Star & fork [helpdesk-manual](https://github.com/hoochanlon/helpdesk-manual) 项目！
