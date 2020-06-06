@@ -14,15 +14,6 @@
 
 调用传输层自行设置的代理套接字，出现的无法访问的问题。可能存在代理配置或是网址有问题，网址问题则涉及到hosts映射设定内容。
 
-### 小插曲
-
-对GitHub进行ping测试，发现虽然ping不通，但还是能访问。处于网络安全的考量，应该是网站禁用了ICMP回应或者开启了ICMP过滤。
-
-参考 [kunlunmountain-为什么有些网站PING不通但又能访问.](https://www.cnblogs.com/kunlunmountain/p/5945756.html)
-
-由此从ping转向curl测试，因为该工具也提供了很直观的信息。
-
-![](https://i.postimg.cc/brH28KhX/010.png)
 
 ### 汇总
 
@@ -37,3 +28,13 @@ RST与SSL_ERR_SYSCALL有一个共同的问题：hosts IP-DNS映射
 ![](https://i.postimg.cc/fT1p9pnn/009.png)
 
 有时就算进行Host设定重定向也能短时间内也正常访问站点，这与keep-alive、浏览器及系统DNS缓存有关，参考 [小胡子哥-修改Hosts为何不生效，是DNS缓存？](https://www.cnblogs.com/hustskyking/p/hosts-modify.html)
+
+#### 小插曲
+
+对GitHub进行ping测试，发现虽然ping不通，但还是能访问。处于网络安全的考量，应该是网站禁用了ICMP回应或者开启了ICMP过滤。
+
+参考 [kunlunmountain-为什么有些网站PING不通但又能访问.](https://www.cnblogs.com/kunlunmountain/p/5945756.html)
+
+由此从ping转向curl测试，因为该工具也提供了很直观的信息。
+
+![](https://i.postimg.cc/brH28KhX/010.png)
