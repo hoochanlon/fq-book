@@ -15,7 +15,7 @@ VPN、Proxy不时也会出现新应用，操作方式多数基本也大同小异
 
 此书献给热爱互联网的人们，以上...
 
-***[About Me](https://hoochanlon.github.io/about.me/)***
+***[About Me(关于作者)](https://hoochanlon.github.io/about.me/)***
 
 ### 推广
 
