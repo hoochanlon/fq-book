@@ -113,6 +113,9 @@ git config --global https.proxy 'socks5://127.0.0.1:1080'
 # 取消代理
 git config --global --unset https.proxy 'socks5://127.0.0.1:1080'
 git config --global --unset http.proxy 'socks5://127.0.0.1:1080'
+# npm/yarn下载组件方面，均可使用淘宝镜像
+npm install -g cnpm --registry=https://registry.npm.taobao.org
+yarn config set registry https://registry.npm.taobao.org
 ```
 
 <details><summary>更新图示 click me! </summary>
