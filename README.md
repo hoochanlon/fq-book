@@ -104,15 +104,20 @@ git commit -m "test"
 git push -u -f origin master  
 ```
 
-输入账号&密码即可上传到自己repo完成Github账户仓库远程更新。**更多作业指令操作说明，请看[Git 官方文档](https://git-scm.com/book/zh/v2)**，在特殊情况，有可能需要涉及到代理设置
+输入账号&密码即可上传到自己repo完成Github账户仓库远程更新。**更多作业指令操作说明，请看[Git 官方文档](https://git-scm.com/book/zh/v2)**，在特殊情况，有可能需要涉及到代理、镜像、浅克隆设置
 
 ```
 # 代理设置
 git config --global http.proxy 'socks5://127.0.0.1:1080'
 git config --global https.proxy 'socks5://127.0.0.1:1080'
+
 # 取消代理
 git config --global --unset https.proxy 'socks5://127.0.0.1:1080'
 git config --global --unset http.proxy 'socks5://127.0.0.1:1080'
+
+# git clone 默认会下载项目的完整历史版本，若只关心最新的代码，而不关心之前的历史，可以使用浅复制功能：
+git clone --depth=1  https://github.com/你的用户名/你的repo.git
+
 # npm/yarn下载组件方面，均可使用淘宝镜像
 npm install -g cnpm --registry=https://registry.npm.taobao.org
 yarn config set registry https://registry.npm.taobao.org
