@@ -63,7 +63,7 @@
   * [软件互联协议](abc/connection.md)
   * [DNS劫持与污染](abc/4dns.md)
   * [数字证书攻防概述](abc/dc_zhenshu.md)
-  * [网页代理的原理](abc/web-proxy-x.md)
+  * [代理上网准入检测实验](abc/web-proxy-x.md)
   * [VPN隧道协议](abc/4vpn.md)
   * [科学上网原理](abc/1190000011485579.md)
   * [GFW原理和封锁技术](abc/gfw.md)
