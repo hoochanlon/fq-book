@@ -40,7 +40,6 @@
   * [Betternet](vpn/betternet.md)
   * [典型VPN概览](vpn/classical-vpn.md)
   * [wireguard](vpn/wireguard.md)
-  * [付费VPN参考清单](vpn/pay-vpn.md)
 
 * 使用网站
   * [搜索站点](web/searchtools.md)
