@@ -13,6 +13,8 @@
 
 **《这本书》示例的多数网址，以及更多资料收录在 [w3-goto-world](https://github.com/hoochanlon/w3-goto-world) ，书中的相关章节搭配存储库 `科学上网` 效果会更好！**
 
+[![Stargazers over time](https://starchart.cc/hoochanlon/fq-book.svg)](https://starchart.cc/hoochanlon/fq-book)
+
 ## ***update***
 
 《这本书能让你连接互联网》-> 《这本书能让你连接互联网 Ⅱ》的更新要点：
