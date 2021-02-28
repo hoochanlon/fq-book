@@ -19,4 +19,5 @@ VPN、Proxy不时也会出现新应用，操作方式多数基本也大同小异
 
 ### 自推广
 
-* [《由驻场桌维到内部业务运营》](https://hoochanlon.github.io/helpdesk-guide/)
+* [《桌维网管实典》](https://hoochanlon.github.io/helpdesk-guide/)
+* [《解读文稿思考项目管理》](https://github.com/hoochanlon/reading-pm-by-lib)
