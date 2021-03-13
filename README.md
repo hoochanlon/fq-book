@@ -119,6 +119,24 @@ git push -u -f origin master
 
 输入账号&密码即可上传到自己repo完成Github账户仓库远程更新。**更多作业指令操作说明，请看[Git 官方文档](https://git-scm.com/book/zh/v2)**，在特殊情况，有可能需要涉及到代理、镜像、浅克隆设置
 
+<details><summary>更新图示 click me! </summary>
+
+![](https://i.postimg.cc/YSY78GPL/Snipaste-2019-06-12-15-59-16.png)
+
+![](https://i.postimg.cc/pTrZRztp/Snipaste-2019-06-12-16-40-01.png)
+
+部署测试
+
+![](https://i.postimg.cc/dV1tRjrW/Snipaste-2019-06-12-16-42-04.png)
+
+提交到repo
+
+![](https://i.postimg.cc/tRkjrVX8/Snipaste-2019-06-12-16-43-37.png)
+
+</details>
+
+### 代理设置与组件下载
+
 ***代理设置***
 
 ```
@@ -168,24 +186,6 @@ yarn config set registry https://registry.npm.taobao.org
 pip install pip -U
 pip config set global.index-url https://pypi.douban.com/simple/
 ```
-
-<details><summary>更新图示 click me! </summary>
-
-![](https://i.postimg.cc/YSY78GPL/Snipaste-2019-06-12-15-59-16.png)
-
-![](https://i.postimg.cc/pTrZRztp/Snipaste-2019-06-12-16-40-01.png)
-
-部署测试
-
-![](https://i.postimg.cc/dV1tRjrW/Snipaste-2019-06-12-16-42-04.png)
-
-提交到repo
-
-![](https://i.postimg.cc/tRkjrVX8/Snipaste-2019-06-12-16-43-37.png)
-
-</details>
-
-
 
 ## ***mind you*** 
 
