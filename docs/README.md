@@ -17,7 +17,3 @@ VPN、Proxy不时也会出现新应用，操作方式多数基本也大同小异
 
 ***[About Me（关于作者）](https://hoochanlon.github.io/hoochanlon)***
 
-### 自推广
-
-* [《桌维网管实典》](https://hoochanlon.github.io/helpdesk-guide/)
-* [《解读文稿思考项目管理》](https://github.com/hoochanlon/reading-pm-by-lib)
