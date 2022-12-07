@@ -47,6 +47,7 @@
 * 阿里DNS：223.5.5.5、223.6.6.6
 * 腾讯DNS：119.29.29.29、182.254.116.116
 
+简单多说几句：设置HOSTS、DNS的软件，推荐：[SwitchHosts](https://github.com/oldj/SwitchHosts)、[DNSCrypt](https://github.com/DNSCrypt/dnscrypt-proxy) ，我觉得不管代理、vpn怎么变(换来换去)，反正这两个设置软件总是要的。此外，[SteamTools](https://github.com/BeyondDimension/SteamTools)游戏加速器，满足steam基本的社区商店、社区消息浏览，很可以了，毕竟是免费的。
 
 ## ***usage***
 
@@ -135,7 +136,7 @@ git push -u -f origin master
 
 </details>
 
-### 代理设置与组件下载
+### 代理设置与组件下载(后续参考部分)
 
 ***代理设置***
 
@@ -145,6 +146,8 @@ git config --global http.proxy 'socks5://127.0.0.1:1080'
 git config --global https.proxy 'socks5://127.0.0.1:1080'
 
 # git客户端取消代理
+git config --global --unset https.proxy
+git config --global --unset http.proxy
 git config --global --unset https.proxy 'socks5://127.0.0.1:1080'
 git config --global --unset http.proxy 'socks5://127.0.0.1:1080'
 
@@ -186,6 +189,8 @@ yarn config set registry https://registry.npm.taobao.org
 pip install pip -U
 pip config set global.index-url https://pypi.douban.com/simple/
 ```
+
+当然咯，一些喜欢折腾环境配置的人也自然总结了一些经验写着项目里，例如：[homebrew-install](https://github.com/ineo6/homebrew-install)、[Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)、[package-manager-proxy-settings](https://github.com/comwrg/package-manager-proxy-settings)。
 
 ## ***mind you*** 
 
