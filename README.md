@@ -47,7 +47,7 @@
 * 阿里DNS：223.5.5.5、223.6.6.6
 * 腾讯DNS：119.29.29.29、182.254.116.116
 
-简单多说几句：设置HOSTS、DNS的软件，推荐：[SwitchHosts](https://github.com/oldj/SwitchHosts)、[DNSCrypt](https://github.com/DNSCrypt/dnscrypt-proxy) ，我觉得不管代理、vpn怎么变(换来换去)，反正这两个设置软件总是要的。此外，[SteamTools](https://github.com/BeyondDimension/SteamTools)游戏加速器，满足steam基本的社区商店、社区消息浏览，很可以了，毕竟是免费的。
+简单多说几句：设置HOSTS、DNS的软件，推荐：[SwitchHosts](https://github.com/oldj/SwitchHosts)(导入GitHub hosts可参考[ineo6/hosts](https://github.com/ineo6/hosts))、[DNSCrypt](https://github.com/DNSCrypt/dnscrypt-proxy) ，我觉得不管代理、vpn怎么变(换来换去)，反正这两个设置软件总是要的。此外，[SteamTools](https://github.com/BeyondDimension/SteamTools)游戏加速器，满足steam基本的社区商店、社区消息浏览，很可以了，毕竟是免费的。
 
 ## ***usage***
 
