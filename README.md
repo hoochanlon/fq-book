@@ -136,32 +136,47 @@ git push -u -f origin master
 
 ### 代理设置
 
-```
-# git客户端代理设置
-git config --global http.proxy 'socks5://127.0.0.1:1080'
-git config --global https.proxy 'socks5://127.0.0.1:1080'
+#### git代理
 
-# git客户端取消代理
+git客户端代理设置
+
+```
+git config --global http.proxy 'socks5://127.0.0.1:1080' && \
+git config --global https.proxy 'socks5://127.0.0.1:1080'
+```
+
+git客户端取消代理
+
+```
 git config --global --unset https.proxy
 git config --global --unset http.proxy
-git config --global --unset https.proxy 'socks5://127.0.0.1:1080'
-git config --global --unset http.proxy 'socks5://127.0.0.1:1080'
+```
 
-# git clone 默认会下载项目的完整历史版本，若只关心最新的代码，而不关心之前的历史，可以使用浅复制功能：
+git clone 默认会下载项目的完整历史版本，若只关心最新的代码，而不关心之前的历史，网速差的朋友可以使用浅复制功能：
+
+```
 git clone --depth=1  https://github.com/你的用户名/你的repo.git
+```
 
----
-# mac 终端
+#### Mac终端
 
-export http_proxy="socks5://127.0.0.1:1080"
-export https_proxy="socks5://127.0.0.1:1080"
+Mac终端的代理设置（http&https）
 
-## 在 .bashrc 或 .zshrc 中设置
-alias setproxy="export ALL_PROXY=socks5://127.0.0.1:1080"
-alias unsetproxy="unset ALL_PROXY"
+```
+export ALL_PROXY=socks5://127.0.0.1:1080
+```
 
----
-# ssh
+终端取消代理
+
+```
+unset ALL_PROXY"
+```
+
+代理软件即便是开全局模式，终端也不会走代理的，需另设。此外，Mac终端设置了代理git是可以不用在设置了。
+
+#### 附ssh
+
+```
 ## github ssh 配置
 ### https://help.github.com/articles/using-ssh-over-the-https-port/
 
