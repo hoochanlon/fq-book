@@ -140,16 +140,12 @@ git push -u -f origin master
 
 #### git代理
 
-git客户端代理设置
+git客户端代理设置，以及取消代理
 
 ```
 git config --global http.proxy 'socks5://127.0.0.1:1080' && \
 git config --global https.proxy 'socks5://127.0.0.1:1080'
-```
 
-git客户端取消代理
-
-```
 git config --global --unset https.proxy
 git config --global --unset http.proxy
 ```
@@ -162,15 +158,11 @@ git clone --depth=1  https://github.com/你的用户名/你的repo.git
 
 #### Mac终端
 
-Mac终端的代理设置（http&https）
+Mac终端的代理设置（http&https）以及取消代理
 
 ```
 export ALL_PROXY=socks5://127.0.0.1:1080
-```
 
-终端取消代理
-
-```
 unset ALL_PROXY"
 ```
 
@@ -180,8 +172,7 @@ unset ALL_PROXY"
 curl cip.cc
 ```
 
-
-#### 附ssh
+#### ssh
 
 ```
 ## github ssh 配置
@@ -192,10 +183,9 @@ ProxyCommand socat - PROXY:127.0.0.1:%h:%p,proxyport=8848
 
 ## socks5 代理
  ProxyCommand nc -v -x 127.0.0.1:1080 %h %p
-
 ```
 
-更多代理设置见：[SunSeekerX's Notebook-代理设置大全](https://doc.yoouu.cn/basic/proxy.html)
+更多代理设置见：[SunSeekerX's Notebook-代理设置大全](https://doc.yoouu.cn/basic/proxy.html) （2024。1.12）
 
 ## ***essays***
 
