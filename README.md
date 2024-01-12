@@ -185,7 +185,7 @@ ProxyCommand socat - PROXY:127.0.0.1:%h:%p,proxyport=8848
  ProxyCommand nc -v -x 127.0.0.1:1080 %h %p
 ```
 
-更多代理设置见：[SunSeekerX's Notebook-代理设置大全](https://doc.yoouu.cn/basic/proxy.html) （2024。1.12）
+更多代理设置见：[SunSeekerX's Notebook-代理设置大全](https://doc.yoouu.cn/basic/proxy.html) （2024.1.12）
 
 ## ***essays***
 
