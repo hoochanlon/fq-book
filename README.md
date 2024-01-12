@@ -166,11 +166,7 @@ export ALL_PROXY=socks5://127.0.0.1:1080
 unset ALL_PROXY"
 ```
 
-代理软件即便是开全局模式，终端也不会走代理的，需另设。此外，Mac终端设置了代理git是可以不用在设置了。这个可用 https://cip.cc 来判断软件是否走了代理通道
-
-```
-curl cip.cc
-```
+代理软件即便是开全局模式，终端也不会走代理的，需另设。此外，Mac终端设置了代理git是可以不用在设置了。这个可用 `curl cip.cc` 来判断软件是否走了代理通道
 
 #### ssh
 
@@ -185,7 +181,7 @@ ProxyCommand socat - PROXY:127.0.0.1:%h:%p,proxyport=8848
  ProxyCommand nc -v -x 127.0.0.1:1080 %h %p
 ```
 
-更多代理设置见：[SunSeekerX's Notebook-代理设置大全](https://doc.yoouu.cn/basic/proxy.html) （2024.1.12）
+更多代理设置见：[SunSeekerX's Notebook-代理设置大全](https://doc.yoouu.cn/basic/proxy.html)，相关问题见：[v2ex-为什么全局代理后，CMD依然Ping不通Google？](https://www.v2ex.com/t/877527) （2024.1.12）
 
 ## ***essays***
 
