@@ -109,7 +109,6 @@
   * [获取梯子上网的方式](method/get-method.md)
  
  * 特别篇（Chikatetsu Teikou Shugi）
-   * [chatgpt plus订阅方法信息收集](fkca/chatgpt.md)
    * [开通虚拟信用卡摸索历程](fkca/mastercard.md)
    * [美区ID购买小火箭](fkca/apple-ssr.md)
    * [国外云服务器自搭梯子示例](fkca/ss-server.md)
