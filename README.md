@@ -11,7 +11,7 @@
 * [目录](docs/_sidebar.md)
 * [后记](docs/postscript.md)
 
-**《这本书》示例的多数网址，以及更多资料收录在 [w3-goto-world](https://github.com/hoochanlon/w3-goto-world) ，书中的相关章节搭配存储库 `科学上网` 效果会更好！不得不说，这个免费梯子真厉害：[Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers)**
+**《这本书》示例的多数网址，以及更多资料收录在 [w3-goto-world](https://github.com/hoochanlon/w3-goto-world) ，书中的相关章节搭配存储库 `科学上网` 效果会更好！不得不说，这个免费梯子真厉害：[Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers)，现在的代理软件都进化到实现VPN的功能了：[clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)甚至还有机场推荐，太强了。**
 
 <!--[![Stargazers over time](https://starchart.cc/hoochanlon/fq-book.svg)](https://starchart.cc/hoochanlon/fq-book)-->
 
