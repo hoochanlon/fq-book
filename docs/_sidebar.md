@@ -110,9 +110,8 @@
  
  * 特别篇（Chikatetsu Teikou Shugi）
    * [chatgpt plus订阅方法信息收集](fkca/chatgpt.md)
-   * [注册美区apple id](fkca/appleid.md)
    * [开通虚拟信用卡摸索历程](fkca/mastercard.md)
-   * [购买礼品卡给美区ID充值买小火箭](fkca/apple-ssr.md)
+   * [美区ID购买小火箭](fkca/apple-ssr.md)
    * [国外云服务器自搭梯子示例](fkca/ss-server.md)
    * [初次搭建网站多次失败后的成功记录](fkca/jianzhan.md)
 
