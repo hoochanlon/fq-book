@@ -1,4 +1,28 @@
-# 购买礼品卡给美区ID充值买小火箭
+# 美区ID购买小火箭
+
+## 注册美区apple id
+
+
+美区号被盗了已有三年了，这一次将号牢牢掌握在自己手中。我的谷歌账号、chatgpt都是买的，但苹果ID最好还是要自己亲自注册，防止邮箱用自己的，手机号、手机设备是别人的，导致账号被盗。apple id和注册谷歌账号还是有点差别，当时我以为和雅虎台湾一样，用国内手机号注册不了美区ID，以及我也忘了是哪个网站来着，注册账号必须要vsia提供信用卡。这些步骤可谓劝退一大部分人。直到今天，自己创建了美区id才知道我想多了...
+
+为了玩杀戮尖塔才注册港区ID，登录App Store发现也没有才转到美区的。教程参考：
+
+* [美区苹果ID注册教程（2025年9月保姆级实测教程）](https://zhuanlan.zhihu.com/p/1948722982823368489)
+* [www.shenfendaquan.com](https://www.shenfendaquan.com/Index/index/custom_result)
+
+为了在手机玩上游戏王遇上了“无法验证app需要互联网连接以验证是否信任开发者”的错误，原来需要用签证才能正常使用，签证有两种方式，证书签名、id签名，推荐使用爱思助手来进行签名：
+
+* https://www.i4.cn/news_detail_40956.html
+* https://www.i4-cn.com/archives/2767
+
+无意间发现的购买证书的网站：https://pan.iosku.top  没用过，不保证可靠性。证书一般都要钱买的，也可以去官网购买，开发者认证年费真是相当的贵了，唤醒了我当初开发[Free NTFS for Mac](https://github.com/hoochanlon/Free-NTFS-for-Mac)的记忆。
+
+以上过程让我又经历了一次“刷机”，太累了。
+
+
+长截图下载：https://github.com/hoochanlon/picx-images-hosting/blob/master/fkca/PixPin_2025-11-13_12-52-53.png
+
+## 购买礼品卡给美区ID充值买小火箭
 
 
 现在iPhone也有免费的梯子了 点击 [singbox](https://www.youtube.com/watch?v=fzr2CI3NC64) 查看YouTube教程。
@@ -7,7 +31,7 @@
 * [苹果美区礼品卡购买方法大全，购买/兑换/使用全流程手把手指导，美区买游戏/开会员/内购升级必备！](https://www.bilibili.com/video/BV16KyZB6E7k/)
 
 
-## 开始前的碎碎念
+### 开始前的碎碎念
 
 为什么使用礼品卡：
 
@@ -18,7 +42,7 @@
 
 才想起来，礼品卡不能用于游戏内购的续订项目。银联的借记卡用不了，可能是需要银联的信用卡，之前的信用卡注销了，不然还可以验证一下，可惜了。
 
-## 正式开始
+### 正式开始
 
 购买礼品卡的方式，第三方：淘宝、咸鱼、pockyt shop。我这选是官方。
 
@@ -48,8 +72,9 @@
 
 ![](https://cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/fkca/PixPin_2025-11-14_00-32-26.png)
 
-## 剩余时间随便边看边写点什么
+### 剩余时间随便边看边写点什么
 
 从这篇[iPhone/iPad V2ray/SS 翻墙APP教程](https://fanqiang.gitbook.io/fanqiang/ios/potatsolite)文档来看，看来翻墙工具比起18年那会，也多了一些。当我再点进去一看[注册苹果美区 Apple ID 帐号并购买APP指南](https://fanqiang.gitbook.io/fanqiang/ios/appleid)，不由得一句“卧槽”，自己落后好几年了...
+
 
 这个翻墙教程的作者是李洪志的弟子，看来几年过去了，轮子宣传隐蔽了很多，除了翻墙新闻，几乎看不到什么轮子痕迹，不想18年那会，非常直白，基本上每个页面都有相关宣传标语。现在你不去管它，几乎不用管它，也算少有的从电脑到手机、以及路由器等等各种翻墙教程合集。
