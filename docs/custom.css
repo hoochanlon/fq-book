@@ -1,7 +1,4 @@
 :root {
-    --sidebar-width: 20rem;
-}
-
-a.app-name-link{
-  font-size: 18px;
+    --sidebar-padding: 0 25px;
+    --sidebar-width: 22rem;
 }
