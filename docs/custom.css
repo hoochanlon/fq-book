@@ -7,3 +7,97 @@
     margin: 10px;
     padding: 0 0px;
 }
+
+/* 移动端完全隐藏，点击图标显示 */
+@media only screen and (max-width: 768px) {
+  aside.toc-nav {
+    position: fixed;
+    bottom: 20px;
+    top: auto;
+    right: 20px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background: var(--sidebar-nav-link-color--active, #42b983);
+    box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+    cursor: pointer;
+    opacity: 1;
+    z-index: 1000000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    transition: all 0.3s ease;
+  }
+  
+  aside.toc-nav::before {
+    content: "📑";
+    font-size: 24px;
+    color: white;
+  }
+  
+  aside.toc-nav .page_toc {
+    display: none;
+    position: absolute;
+    bottom: 60px;
+    right: 0;
+    width: 300px;
+    max-height: 400px;
+    background: white;
+    border-radius: 8px;
+    padding: 15px;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.15);
+    overflow-y: auto;
+  }
+  
+  aside.toc-nav.active {
+    width: 300px;
+    height: auto;
+    border-radius: 8px;
+    bottom: 20px;
+    right: 20px;
+  }
+  
+  aside.toc-nav.active::before {
+    display: none;
+  }
+  
+  aside.toc-nav.active .page_toc {
+    display: block;
+    position: static;
+    width: 100%;
+    max-height: 400px;
+    box-shadow: none;
+    padding: 0;
+  }
+}
+
+@media only screen and (min-width: 769px) and (max-width: 1299px) {
+  aside.toc-nav {
+    max-width: 45px;
+    opacity: 0.6;
+    right: 10px !important;
+    margin-right: 0 !important;
+    background: rgba(255,255,255,0.9);
+    backdrop-filter: blur(5px);
+    border-radius: 4px;
+    transition: all 0.3s ease;
+    overflow: hidden;
+  }
+  
+  aside.toc-nav:hover {
+    max-width: 250px;
+    opacity: 1;
+    padding: 15px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.1);
+  }
+  
+  .page_toc p.title {
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  
+  aside.toc-nav:hover .page_toc p.title {
+    opacity: 1;
+  }
+}
