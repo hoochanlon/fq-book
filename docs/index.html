@@ -23,6 +23,12 @@
       themeColor: "black",
       auto2top: true,
       subMaxLevel: 3,
+      count:{
+        countable:true,
+        fontsize:'0.9em',
+        color:'rgb(90,90,90)',
+        language:'chinese'
+      },
       search: {
         paths: 'auto',
         placeholder: {
@@ -55,7 +61,6 @@
     //    +'</a>',
 </script>
 <script src="//unpkg.com/docsify/lib/plugins/search.js"></script>
-<!-- <script src="//unpkg.com/docsify/lib/docsify.min.js"></script> -->
 <script src="//unpkg.com/prismjs/components/prism-bash.js"></script>
 <script src="//unpkg.com/docsify/lib/plugins/emoji.js"></script>
 <script src="//unpkg.com/docsify-copy-code"></script>
@@ -64,6 +69,8 @@
 <script src="//unpkg.com/docsify/lib/plugins/external-script.js"></script>
 <script src="//unpkg.com/docsify/lib/plugins/zoom-image.js"></script>
 <script src="//unpkg.com/docsify-copy-code"></script>
+<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
+<script src="//unpkg.com/docsify-count/dist/countable.js"></script>
 <script type="module">
     import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
     mermaid.initialize({ startOnLoad: true });
