@@ -101,3 +101,38 @@
     opacity: 1;
   }
 }
+
+/* 平板设备适配 */
+@media screen and (max-width: 1024px) {
+  /* 调整布局 */
+  .markdown-section {
+    padding: 20px 15px;
+    margin: 0;
+  }
+  
+  /* 确保内容不超出 */
+  .markdown-section > * {
+    max-width: 100%;
+    box-sizing: border-box;
+  }
+  
+  /* 修复段落和列表 */
+  p, li, td, th {
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+  }
+  
+  /* 表格适配 */
+  table {
+    display: block;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+  
+  /* 代码块适配 */
+  pre {
+    max-width: 100%;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+}
