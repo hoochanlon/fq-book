@@ -8,6 +8,11 @@
     padding: 0 0px !important;
 }
 
+/* 完全隐藏这个元素 */
+aside.toc-nav.nothing {
+  display: none !important;
+}
+
 /* 移动端完全隐藏，点击图标显示 - 包含iPad */
 @media only screen and (max-width: 1024px) {
   aside.toc-nav {
