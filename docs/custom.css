@@ -4,8 +4,8 @@
 }
 
 .sidebar .search .clear-button {
-    margin: 10px;
-    padding: 0 0px;
+    margin: 10px !important;
+    padding: 0 0px !important;
 }
 
 /* 移动端完全隐藏，点击图标显示 */
