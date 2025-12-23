@@ -71,6 +71,14 @@
         inlineMath   : [['$', '$'], ['\\(', '\\)']], // default
         displayMath  : [['$$', '$$']],               // default
      },
+      share: {
+        reddit: true,
+        linkedin: true,
+        facebook: true,
+        twitter: true,
+        whatsapp: true,
+        telegram: true,
+      },
       plugins: [
         
       function (hook) {
@@ -112,6 +120,7 @@
 <script src="//cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 <script src="//cdn.jsdelivr.net/npm/docsify-latex@0"></script>
 <script src="//unpkg.com/docsify-fontawesome/dist/docsify-fontawesome.min.js"></script>
+<script src="//unpkg.com/docsify-share/build/index.min.js"></script>
 <script type="module">
     import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
     mermaid.initialize({ startOnLoad: true });
