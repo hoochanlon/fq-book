@@ -8,8 +8,8 @@
     padding: 0 0px !important;
 }
 
-/* 移动端完全隐藏，点击图标显示 */
-@media only screen and (max-width: 768px) {
+/* 移动端完全隐藏，点击图标显示 - 包含iPad */
+@media only screen and (max-width: 1024px) {
   aside.toc-nav {
     position: fixed;
     bottom: 20px;
@@ -72,67 +72,24 @@
   }
 }
 
-@media only screen and (min-width: 769px) and (max-width: 1299px) {
+/* 桌面端样式 - 只在大于1024px的设备上生效 */
+@media only screen and (min-width: 1025px) {
   aside.toc-nav {
-    max-width: 45px;
-    opacity: 0.6;
+    max-width: 250px;
+    opacity: 1;
+    position: fixed !important;
     right: 10px !important;
     margin-right: 0 !important;
     background: rgba(255,255,255,0.9);
     backdrop-filter: blur(5px);
     border-radius: 4px;
+    padding: 15px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.1);
     transition: all 0.3s ease;
     overflow: hidden;
   }
   
-  aside.toc-nav:hover {
-    max-width: 250px;
-    opacity: 1;
-    padding: 15px;
-    box-shadow: 0 0 20px rgba(0,0,0,0.1);
-  }
-  
   .page_toc p.title {
-    opacity: 0;
-    transition: opacity 0.3s ease;
-  }
-  
-  aside.toc-nav:hover .page_toc p.title {
     opacity: 1;
-  }
-}
-
-/* 平板设备适配 */
-@media screen and (max-width: 1024px) {
-  /* 调整布局 */
-  .markdown-section {
-    padding: 20px 15px;
-    margin: 0;
-  }
-  
-  /* 确保内容不超出 */
-  .markdown-section > * {
-    max-width: 100%;
-    box-sizing: border-box;
-  }
-  
-  /* 修复段落和列表 */
-  p, li, td, th {
-    word-wrap: break-word;
-    overflow-wrap: break-word;
-  }
-  
-  /* 表格适配 */
-  table {
-    display: block;
-    overflow-x: auto;
-    -webkit-overflow-scrolling: touch;
-  }
-  
-  /* 代码块适配 */
-  pre {
-    max-width: 100%;
-    overflow-x: auto;
-    -webkit-overflow-scrolling: touch;
   }
 }
