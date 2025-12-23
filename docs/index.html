@@ -10,6 +10,13 @@
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-plugin-toc@1.3.1/dist/light.css">
+  <link rel="stylesheet" title="dark" href="//cdn.jsdelivr.net/npm/docsify/themes/dark.css">
+  <style type="text/css">
+    /* navs fixed 顶部导航fixed固定*/
+    .app-nav {
+      position: fixed; 
+    }
+</style>
 </head>
 <!-- <body style="overflow:auto"> -->
   <body>
@@ -24,6 +31,9 @@
       themeColor: "black",
       auto2top: true,
       subMaxLevel: 3,
+      darkSwitch: {
+        fixed: true, // switch按钮fixed固定
+      },
       count:{
         countable:true,
         fontsize:'0.9em',
@@ -34,6 +44,13 @@
         tocMaxLevel: 5,
         target: 'h2, h3, h4, h5, h6',
         ignoreHeaders: ['<!-- {docsify-ignore} -->', '<!-- {docsify-ignore-all} -->']
+      },
+      tabs: {
+        persist: true,
+        sync: true,
+        theme: 'classic',
+        tabComments: true,
+        tabHeadings: true
       },
       search: {
         paths: 'auto',
@@ -78,11 +95,15 @@
 <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
 <script src="//unpkg.com/docsify-count/dist/countable.js"></script>
 <script src="//cdn.jsdelivr.net/npm/docsify-plugin-toc@1.3.1/dist/docsify-plugin-toc.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/docsify-tabs@1.6.1/dist/docsify-tabs.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/prismjs@1.29.0/components/prism-bash.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/prismjs@1.29.0/components/prism-jsx.min.js"></script>
 <script type="module">
     import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
     mermaid.initialize({ startOnLoad: true });
     window.mermaid = mermaid;
 </script>
 <script src="//unpkg.com/docsify-mermaid@2.0.1/dist/docsify-mermaid.js"></script>
+<script src="//cdn.jsdelivr.net/npm/docsify-dark-switch/dist/docsify-dark-switch.min.js"></script>
 </body>
 </html>
