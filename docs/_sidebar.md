@@ -114,6 +114,7 @@
    * [国外云服务器自搭梯子示例](fkca/ss-server.md)
    * [初次搭建网站多次失败后的成功记录](fkca/jianzhan.md)
    * [获取国外手机号简明教程](fkca/esim.md)
+   * [通过代理IP结合指纹浏览器上网](fkca/fxxkcxxxa.md)
 
 * 此书后记
 
