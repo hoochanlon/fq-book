@@ -122,7 +122,7 @@ docker compose up -d
 
 旧版 UI 截图：
 
-![旧版 Memos UI](https://cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/uploads/2025/PixPin_2025-11-05_18-11-00.webp)
+![旧版 Memos UI](https://cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/imgs/uploads/2025/PixPin_2025-11-05_18-11-00.webp)
 
 
 虽然有不少衍生项目，但个人兴趣不大：
@@ -150,6 +150,7 @@ docker compose up -d
 - [使用 1Panel 自动申请和续签通配符证书](https://hin.cool/posts/sslfor1panel.html)
 - [GitHub Pages 绑定域名问题](https://blog.csdn.net/jinweilin/article/details/79607349?)
 - [github.io 绑定域名](https://blog.csdn.net/weixin_45961774/article/details/108402406)
+
 
 
 
