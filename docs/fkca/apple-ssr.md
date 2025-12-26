@@ -20,7 +20,7 @@
 以上过程让我又经历了一次“刷机”，太累了。
 
 
-长截图下载：https://github.com/hoochanlon/picx-images-hosting/blob/master/fkca/PixPin_2025-11-13_12-52-53.png
+长截图下载：https://github.com/hoochanlon/picx-images-hosting/blob/master/imgs/fkca/PixPin_2025-11-13_12-52-53.png
 
 ## 购买礼品卡给美区ID充值买小火箭
 
@@ -48,29 +48,29 @@
 
 进入：https://www.apple.com 美版，下拉到最底，选择“[Gift Cards](https://www.apple.com/shop/gift-cards)” 点击[buy](https://www.apple.com/shop/buy-giftcard/giftcard)。
 
-![](https://cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/fkca/PixPin_2025-11-13_20-10-33.png)
+![](https://cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/imgs/fkca/PixPin_2025-11-13_20-10-33.png)
 
 最低额度是充值10$
 
-![](https://cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/fkca/PixPin_2025-11-13_20-14-20.png) 
+![](https://cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/imgs/fkca/PixPin_2025-11-13_20-14-20.png) 
 
 以我的为例，填好自己的姓名、邮箱，选择“no message”，点击"Add to Bag"，二次确认"check out"
 
-![](https://cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/fkca/PixPin_2025-11-13_20-16-03.png)
+![](https://cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/imgs/fkca/PixPin_2025-11-13_20-16-03.png)
 
 
 用美国地址生成器 https://www.meiguodizhi.com 邮箱选择自己用的,电话选择地址生成器生成的，电话不会被验证，临时邮箱时间较短，最好也用自己的，方便自己接受邮件。
 
-![](https://cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/fkca/PixPin_2025-11-13_20-26-55.png)
+![](https://cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/imgs/fkca/PixPin_2025-11-13_20-26-55.png)
 
 
 邮件接收
 
-![](https://cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/fkca/PixPin_2025-11-13_21-12-40.png)
+![](https://cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/imgs/fkca/PixPin_2025-11-13_21-12-40.png)
 
 图片看起来没截到，连接VPN，登录AppStore，填兑换码，购买小火箭
 
-![](https://cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/fkca/PixPin_2025-11-14_00-32-26.png)
+![](https://cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/imgs/fkca/PixPin_2025-11-14_00-32-26.png)
 
 ### 剩余时间随便边看边写点什么
 
@@ -95,5 +95,6 @@ btw:
 #### 临时写的话
 
 从这篇[iPhone/iPad V2ray/SS 翻墙APP教程](https://fanqiang.gitbook.io/fanqiang/ios/potatsolite)文档来看，看来翻墙工具比起18年那会，也多了一些。当我再点进去一看[注册苹果美区 Apple ID 帐号并购买APP指南](https://fanqiang.gitbook.io/fanqiang/ios/appleid)，不由得一句“卧槽”，自己落后好几年了...这个翻墙教程的作者是李洪志的弟子，看来几年过去了，轮子宣传隐蔽了很多，除了翻墙新闻，几乎看不到什么轮子痕迹，不想18年那会，非常直白，基本上每个页面都有相关宣传标语。现在你不去管它，几乎不用管它，也算少有的从电脑到手机、以及路由器等等各种翻墙教程合集。
+
 
 
