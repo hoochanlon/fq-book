@@ -71,6 +71,7 @@
   * [nat类型科普以及提升方法](abc/4nat.md)
   * [浅析正向、反向、透明代理](abc/proxy-s-x.md)
   * [深网和暗网的区别及基础扫盲](abc/darkweb.md)
+  * [为什么纯净IP这么重要？](abc/pure.md)
   * [集群、分布式、负载均衡区别](abc/p7255364.md)
   * [为什么翻了墙，也无法访问某网站？](a123/rst-syscall.md)
 
