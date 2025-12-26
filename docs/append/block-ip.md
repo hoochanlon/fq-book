@@ -14,5 +14,9 @@ GFW采用这种策略多数针对的是社交通讯网站与有政治倾向性�
 
 目前来看，从gfwlist更新的`pac.txt`文件得知被屏蔽的域名站点有6969个，这一数字随着时间也仍在不停地增加，也可以说国内基本上已经是一个彻底的局域网了。
 
+通过以下网站也可参考域名是否被中国封锁：
+
+* https://viewdns.info/chinesefirewall
+* https://www.top10vpn.com/tools/blocked-in-china
 
 
