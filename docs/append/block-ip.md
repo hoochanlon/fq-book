@@ -14,9 +14,20 @@ GFW采用这种策略多数针对的是社交通讯网站与有政治倾向性�
 
 目前来看，从gfwlist更新的`pac.txt`文件得知被屏蔽的域名站点有6969个，这一数字随着时间也仍在不停地增加，也可以说国内基本上已经是一个彻底的局域网了。
 
-通过以下网站也可参考域名是否被中国封锁：
+通过以下网站可检测IP、域名、端口是否被中国封锁。不过，GFW很少直接封IP，更多是封域名或触发封禁（端口特定被阻）。但一旦IP被封，通常是永久的，除非服务商换IP。端口被封 ≠ IP被封：有些IP只封特定端口（如80/443），其他端口正常。这些工具基于国内服务器节点测试，受GFW影响，偶尔有误判；但结合多个工具结果基本准确。
+
+域名：
 
 * https://viewdns.info/chinesefirewall
 * https://www.top10vpn.com/tools/blocked-in-china
 
+IP
+
+* https://www.vps234.com/ipchecker
+* https://www.itdog.cn
+
+IP及端口
+
+* https://www.toolsdaquan.com/ipcheck
+* https://ping.pe
 
