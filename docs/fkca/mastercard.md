@@ -50,35 +50,35 @@
 
 从欧易购买好虚拟币后，与binpay进行交易，步骤如图：
 
-![](https://cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/fkca/PixPin_2025-11-12_21-49-26.png)
+![](https://cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/imgs/fkca/PixPin_2025-11-12_21-49-26.png)
 
 过几分钟后，就会收到邮件及系统的转出成功提示
 
-![](https://cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/fkca/PixPin_2025-11-12_21-54-02.png)
+![](https://cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/imgs/fkca/PixPin_2025-11-12_21-54-02.png)
 
-![](https://cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/fkca/PixPin_2025-11-12_22-24-31.png)
+![](https://cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/imgs/fkca/PixPin_2025-11-12_22-24-31.png)
 
 接着打开binpay，将充值到账的虚拟币，转换成美元
 
-![](https://cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/fkca/PixPin_2025-11-12_22-26-55.png)
+![](https://cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/imgs/fkca/PixPin_2025-11-12_22-26-55.png)
 
 这时钱包有了美元额度，就可以申请开卡了。
 
-![](https://cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/fkca/PixPin_2025-11-12_22-27-54.png)
+![](https://cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/imgs/fkca/PixPin_2025-11-12_22-27-54.png)
 
-![](https://cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/fkca/PixPin_2025-11-12_22-29-06.png)
+![](https://cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/imgs/fkca/PixPin_2025-11-12_22-29-06.png)
 
 设置密码激活卡
 
-![](https://cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/fkca/PixPin_2025-11-12_22-30-58.png)
+![](https://cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/imgs/fkca/PixPin_2025-11-12_22-30-58.png)
 
 
 ## 使用 cloud flare r2 服务信用卡资料填写
 
 免税州见信息提炼部分，使用美国地址生成器 https://www.meiguodizhi.com ，填入邮寄信息等。
 
-![](https://cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/fkca/PixPin_2025-11-12_22-38-44.png)
+![](https://cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/imgs/fkca/PixPin_2025-11-12_22-38-44.png)
 
 r2 存储桶使用成功！
 
-![](https://cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/fkca/PixPin_2025-11-12_22-45-24.png)
+![](https://cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/imgs/fkca/PixPin_2025-11-12_22-45-24.png)
