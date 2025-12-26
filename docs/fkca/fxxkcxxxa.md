@@ -37,12 +37,12 @@ kookeey操作：
 
 填写方式
 
-![](https://cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/uploads/2025/PixPin_2025-12-23_07-34-22.webp)
+![](https://cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/imgs/uploads/2025/PixPin_2025-12-23_07-34-22.webp)
 
 相关原理，详细见：[Clash for Windows 代理工具使用说明](https://docs.gtk.pw/)
 
-![](https://cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/uploads/2025/PixPin_2025-12-23_08-26-34.webp)
+![](https://cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/imgs/uploads/2025/PixPin_2025-12-23_08-26-34.webp)
 
 https://www.ping0.cc 检测结果
 
-![](https://cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/uploads/2025/PixPin_2025-12-23_08-19-59.webp)
+![](https://cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/imgs/uploads/2025/PixPin_2025-12-23_08-19-59.webp)
