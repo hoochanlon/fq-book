@@ -109,6 +109,7 @@ proxy-groups:
 
 clash 完整配置模板如下，复制粘贴，修改如上“关键配置解读”的proxies和proxy-groups部分即可。
 
+更详细的配置见：https://github.com/HenryChiao/mihomo_yamls
 
 ```yml
 port: 7890
