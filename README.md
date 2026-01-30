@@ -185,7 +185,7 @@ ProxyCommand socat - PROXY:127.0.0.1:%h:%p,proxyport=8848
 
 ## ***essays***
 
-设置HOSTS、DNS的软件，推荐：[SwitchHosts](https://github.com/oldj/SwitchHosts)(导入GitHub hosts可参考[ineo6/hosts](https://github.com/ineo6/hosts))、[DNSCrypt](https://github.com/DNSCrypt/dnscrypt-proxy) ，我觉得不管代理、vpn怎么变(技术迭代，换来换去)，反正这两个设置软件总是要的。VPN、proxy软件又出来个新玩意什么，[clashios](https://clashios.com/about-me/)提及到的软件也是可以参考的咯。
+设置HOSTS、DNS的软件，推荐：[Ip Switch](https://github.com/hoochanlon/Ip-Switch)(导入GitHub hosts可参考[ineo6/hosts](https://github.com/ineo6/hosts))、[DNSCrypt](https://github.com/DNSCrypt/dnscrypt-proxy) ，我觉得不管代理、vpn怎么变(技术迭代，换来换去)，反正这两个设置软件总是要的。VPN、proxy软件又出来个新玩意什么，[clashios](https://clashios.com/about-me/)提及到的软件也是可以参考的咯。
 
 下载组件方面，一些喜欢折腾环境配置的人也自然总结了一些经验写着项目里，例如：[homebrew-install](https://github.com/ineo6/homebrew-install)、[Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)、[package-manager-proxy-settings](https://github.com/comwrg/package-manager-proxy-settings)。
 
