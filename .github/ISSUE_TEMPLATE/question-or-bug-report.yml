@@ -1,0 +1,118 @@
+name: "问题反馈 / Question or Bug Report"
+description: "提问或反馈问题前，请务必按要求完整填写，否则可能会被直接关闭。"
+title: "[简要概括你的问题，例如：本地部署后侧边栏为空]"
+labels:
+  - question
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ⚠️ **发 issue 前请务必先确认以下事项：不按模板填写、信息严重不足的 issue 可能会被直接关闭。**
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: 这是哪一类问题？(必选)
+      options:
+        - 本地部署 / docsify 配置问题
+        - Git / GitHub 相关问题（例如 fork、同步上游）
+        - 文档内容勘误或建议
+        - 其他
+      multiple: false
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: self-check
+    attributes:
+      label: 你已经做过的自查（全部勾选后再提交）
+      description: 若无法全部勾选，请先完成对应检查再提 issue。
+      options:
+        - label: 我已仔细阅读仓库根目录 README.md 和 docs/README.md
+          required: true
+        - label: 我已在已关闭 / 已开放的 issues 中搜索过，没有找到相同问题
+          required: true
+        - label: 我已检查浏览器缓存 / 更换浏览器重试
+          required: true
+        - label: 我已检查本地环境（Node、npm、网络、代理等）是否正常
+          required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: 复现步骤 / 操作过程（必填）
+      description: 请按步骤详细描述你是如何操作的，例如先做了什么、再做了什么，直至出现问题。
+      placeholder: |
+        1. 克隆 / fork 仓库到本地……
+        2. 在 docs 目录执行 docsify serve .……
+        3. 打开浏览器访问 http://localhost:3000 ……
+    validations:
+      required: true
+
+  - type: textarea
+    id: result-vs-expected
+    attributes:
+      label: 实际结果 vs 预期结果（必填）
+      description: 说明现在看到的行为，以及你期望的正确行为。
+      placeholder: |
+        实际结果：例如，侧边栏只有“前言”，其他目录不显示；页面报某某错误等。
+
+        预期结果：例如，希望侧边栏正常显示全部章节。
+    validations:
+      required: true
+
+  - type: input
+    id: os
+    attributes:
+      label: 操作系统及版本（必填）
+      placeholder: 例如：Windows 10 / macOS 14 / Ubuntu 22.04
+    validations:
+      required: true
+
+  - type: input
+    id: browser
+    attributes:
+      label: 浏览器及版本（必填）
+      placeholder: 例如：Chrome 121 / Edge 120 等
+    validations:
+      required: true
+
+  - type: input
+    id: node
+    attributes:
+      label: Node 版本（必填，执行 node -v）
+      placeholder: 例如：v18.19.0
+    validations:
+      required: true
+
+  - type: input
+    id: package-manager
+    attributes:
+      label: 包管理器及版本（可选）
+      description: 如使用 npm / pnpm / yarn，请告知版本。
+      placeholder: 例如：npm 10.2.0
+
+  - type: dropdown
+    id: proxy
+    attributes:
+      label: 是否使用了代理 / VPN？
+      options:
+        - 否
+        - 是（系统级代理）
+        - 是（浏览器插件）
+        - 是（VPN / 其他方式）
+    validations:
+      required: true
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: 关键错误信息 / 日志 / 截图（建议提供）
+      description: 如有浏览器控制台报错、命令行报错或截图，请粘贴在此或上传附件。
+
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        提示：**简单一句“不能用”“挂了”这类描述属于无效 issue，会被机器人或维护者直接关闭。**
+
