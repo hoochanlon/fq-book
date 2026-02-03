@@ -1,0 +1,6 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 常见问题 / FAQ
+    url: https://github.com/hoochanlon/fq-book#readme
+    about: 请优先阅读 README 与文档中的说明，大部分部署问题可在其中找到答案。
+
