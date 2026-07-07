@@ -119,7 +119,7 @@
    * [初次搭建网站多次失败后的成功记录](fkca/jianzhan.md)
    * [不止于探索APN](fkca/apn.md)
    * [最后的Tag](fkca/tag.md)
-
+   * [Ex:跨国阶层跃升中的零容错接力与资本特权](fkca/gougongnuchubuzhoushan.md)
 
 * 此书后记
 
