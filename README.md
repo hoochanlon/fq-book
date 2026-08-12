@@ -15,7 +15,7 @@
 
 <!--[![Stargazers over time](https://starchart.cc/hoochanlon/fq-book.svg)](https://starchart.cc/hoochanlon/fq-book)-->
 
-[![Star History Chart](https://api.star-history.com/svg?repos=hoochanlon/fq-book&type=Date)](https://star-history.com/#hoochanlon/fq-book&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=hoochanlon/fq-book&type=Date)](https://star-history.dera.page/#hoochanlon/fq-book&Date)
 
 ## ***update***
 
