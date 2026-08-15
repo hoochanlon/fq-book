@@ -6,7 +6,7 @@
 > [!important]
 > 《这本书》示例的多数网址，以及更多资料收录在 [hamuleite](https://github.com/hoochanlon/hamuleite) ，书中的相关章节搭配存储库 `科学上网` 效果会更好！推荐相关网络切换及计算软件: [Ip-Switch](https://github.com/hoochanlon/Ip-Switch)、[network-calculator](https://github.com/hoochanlon/network-calculator)。
 >
-> 不得不说，这个免费梯子真厉害 [Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers)，现在的代理软件都进化到实现VPN的功能了：[clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)，以及千种配置 [mihomo_yamls](https://github.com/HenryChiao/mihomo_yamls) 太强了。
+> 不得不说，[Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers)这个免费梯子真厉害，[clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)都实现VPN的功能了 ，以及千种配置 [mihomo_yamls](https://github.com/HenryChiao/mihomo_yamls) 太强了。
 
 ## ***intro***
 
