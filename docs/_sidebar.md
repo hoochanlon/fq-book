@@ -27,6 +27,12 @@
   * [puffin](browse/puffin.md)
   * [zeronet](browse/zeronet.md)
 
+* VPN软件
+
+  * [Betternet](vpn/betternet.md)
+  * [典型VPN概览](vpn/classical-vpn.md)
+  * [wireguard](vpn/wireguard.md)
+
 * 代理工具
 
   * [SS/SSR](proxy/ss-ssr.md)
@@ -34,12 +40,17 @@
   * [proxifier](proxy/proxifier.md)
   * [privoxy](proxy/privoxy.md)
   * [SSH-Tunnel](proxy/SSH-Tunnel.md)
+  * [美区ID购买小火箭](fkca/apple-ssr.md)
+  * [国外云服务器自搭梯子示例](fkca/ss-server.md)
+  * [通过代理IP结合指纹浏览器上网](fkca/fxxkcxxxa.md)
 
-* VPN软件
 
-  * [Betternet](vpn/betternet.md)
-  * [典型VPN概览](vpn/classical-vpn.md)
-  * [wireguard](vpn/wireguard.md)
+* 1984 美丽的新世界
+   * [获取国外手机号码](fkca/esim.md)
+   * [开通虚拟信用卡摸索历程](fkca/mastercard.md)
+   * [无法使用Gemini的问题（ipdodo团队方案）](fkca/ipdodo-gemini.md)
+    * [无法使用Gemini的问题（个人自用方案）](fkca/myself-gemini.md)
+
 
 * 使用网站
   * [搜索站点](web/searchtools.md)
@@ -108,17 +119,11 @@
 
 * 方法论
   * [获取梯子上网的方式](method/get-method.md)
+  * [初次搭建网站多次失败后的成功记录](fkca/jianzhan.md)
  
- * 特别篇（Chikatetsu Teikou Shugi）
-   
-   * [获取国外手机号码](fkca/esim.md)
-   * [开通虚拟信用卡摸索历程](fkca/mastercard.md)
-   * [美区ID购买小火箭](fkca/apple-ssr.md)
-   * [国外云服务器自搭梯子示例](fkca/ss-server.md)
-   * [通过代理IP结合指纹浏览器上网](fkca/fxxkcxxxa.md)
-   * [初次搭建网站多次失败后的成功记录](fkca/jianzhan.md)
-   * [不止于探索APN](fkca/apn.md)
-   * [最后的Tag](fkca/tag.md)
+ * 特别篇
+   * [不止于APN](fkca/apn.md)
+   * [最後のTag](fkca/tag.md)
    * [Ex:跨国阶层跃升中的零容错接力与资本特权](fkca/gougongnuchubuzhoushan.md)
 
 * 此书后记

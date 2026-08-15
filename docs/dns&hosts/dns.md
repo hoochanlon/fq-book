@@ -1,6 +1,6 @@
 # 修改DNS防止域名污染
 
-!> 若是对修改DNS只能防劫持但还可以防污染甚至解封IP感到困惑，[请点此查看相关内容](/abc/4dns?id=dns污染)
+> [!tip] 若是对修改DNS只能防劫持但还可以防污染甚至解封IP感到困惑，[请点此查看相关内容](/abc/4dns?id=dns污染)
 
 进入[baidns.cn](https://baidns.cn/)，记住此DNS地址
 
