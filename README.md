@@ -15,8 +15,6 @@
 
 <!--[![Stargazers over time](https://starchart.cc/hoochanlon/fq-book.svg)](https://starchart.cc/hoochanlon/fq-book)-->
 
-[![Star History Chart](https://api.star-history.com/svg?repos=hoochanlon/fq-book&type=Date)](https://star-history.com/#hoochanlon/fq-book&Date)
-
 ## ***update***
 
 《这本书能让你连接互联网》-> 《VPN及代理应用详解》的更新要点：
