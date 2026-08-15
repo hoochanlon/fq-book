@@ -64,8 +64,8 @@
    * [获取梯子上网的方式](method/get-method.md)
    * [获取国外手机号码](fkca/esim.md)
    * [开通虚拟信用卡摸索历程](fkca/mastercard.md)
-   * [无法使用Gemini的问题（ipdodo团队方案）](fkca/ipdodo-gemini.md)
-   * [无法使用Gemini的问题（个人自用方案）](fkca/myself-gemini.md)
+   * [无法使用Gemini（ipdodo）](fkca/ipdodo-gemini.md)
+   * [无法使用Gemini（自用方案）](fkca/myself-gemini.md)
  
  * 特别篇
    * [不止于APN](fkca/apn.md)
