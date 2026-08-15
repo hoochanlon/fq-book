@@ -3,6 +3,9 @@
 |[![cc](https://i.creativecommons.org/l/by-nc/4.0/80x15.png)](http://creativecommons.org/licenses/by-nc/4.0/)|[![fq-book](https://img.shields.io/badge/%F0%9F%93%96book-fq--book-red.svg?longCache=true&style=flat-square)](https://hoochanlon.github.io/fq-book)|[![blog](https://img.shields.io/badge/%F0%9F%94%97blog-hoochanlon-lightgrey.svg?longCache=true&style=flat-square)](https://hoochanlon.github.io/)|[![outlook](https://img.shields.io/badge/%F0%9F%93%A7hotmail-@邮箱联系-blue.svg?longCache=true&style=flat-square)](mailto:hoochanlon@outlook.com)|[![stars](https://img.shields.io/github/stars/hoochanlon/fq-book.svg?style=social)](https://github.com/hoochanlon/fq-book)
 |:-:|:-:|:-:|:-:|:-:|
 
+> [!important]
+> 《这本书》示例的多数网址，以及更多资料收录在 [hamuleite](https://github.com/hoochanlon/hamuleite) ，书中的相关章节搭配存储库 `科学上网` 效果会更好！不得不说，这个免费梯子真厉害：[Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers)，现在的代理软件都进化到实现VPN的功能了：[clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)，以及千种配置 [mihomo_yamls](https://github.com/HenryChiao/mihomo_yamls) 太强了
+
 ## ***intro***
 
 本书着重于上网的方式与获取信息的技巧，并对相关流行且典型的软件做简要的上手配置，以及原理的相关说明。
@@ -10,8 +13,6 @@
 * [导读](docs/README.md)
 * [目录](docs/_sidebar.md)
 * [后记](docs/postscript.md)
-
-**《这本书》示例的多数网址，以及更多资料收录在 [w3-goto-world](https://github.com/hoochanlon/w3-goto-world) ，书中的相关章节搭配存储库 `科学上网` 效果会更好！不得不说，这个免费梯子真厉害：[Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers)，现在的代理软件都进化到实现VPN的功能了：[clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)，以及千种配置 [mihomo_yamls](https://github.com/HenryChiao/mihomo_yamls) 太强了。**
 
 <!--[![Stargazers over time](https://starchart.cc/hoochanlon/fq-book.svg)](https://starchart.cc/hoochanlon/fq-book)-->
 
