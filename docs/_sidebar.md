@@ -44,14 +44,6 @@
   * [国外云服务器自搭梯子示例](fkca/ss-server.md)
   * [通过代理IP结合指纹浏览器上网](fkca/fxxkcxxxa.md)
 
-
-* 1984 美丽的新世界
-   * [获取国外手机号码](fkca/esim.md)
-   * [开通虚拟信用卡摸索历程](fkca/mastercard.md)
-   * [无法使用Gemini的问题（ipdodo团队方案）](fkca/ipdodo-gemini.md)
-    * [无法使用Gemini的问题（个人自用方案）](fkca/myself-gemini.md)
-
-
 * 使用网站
   * [搜索站点](web/searchtools.md)
   * [网页时光机](web/web-archive.md)
@@ -67,6 +59,18 @@
   * [ipfs简单使用](ipfs/ipfs-use-naive.md)
   * [对去中心化网络的信仰](ipfs/belief.md)
   * [为什么说去中心化很重要](ipfs/why.md)
+
+* 方法论
+   * [获取梯子上网的方式](method/get-method.md)
+   * [获取国外手机号码](fkca/esim.md)
+   * [开通虚拟信用卡摸索历程](fkca/mastercard.md)
+   * [无法使用Gemini的问题（ipdodo团队方案）](fkca/ipdodo-gemini.md)
+   * [无法使用Gemini的问题（个人自用方案）](fkca/myself-gemini.md)
+ 
+ * 特别篇
+   * [不止于APN](fkca/apn.md)
+   * [最後のTag](fkca/tag.md)
+   * [Ex:跨国阶层跃升中的零容错接力与资本特权](fkca/gougongnuchubuzhoushan.md)
 
 * 科学普及
 
@@ -111,21 +115,10 @@
   * [SS二级（前置）代理设置](append/ss-relay.md)
   * [ss、ssr、v2ray链接解析](append/srvurl.md)
   * [用Win7，电脑就是路由器](append/win7-wifi.md)
-
-* 逗比
-  * [逗比rip](doub/init_doub.md)
+  * [初次搭建网站多次失败后的成功记录](fkca/jianzhan.md)
   * [关于目前 GFW(墙) 的封锁方式TCP封锁(阻断)猜想](doub/wkcjzpyd-2.md)
   * [浅谈HTTP劫持、DNS污染的影响及解决办法](doub/6t3mypbm-5.md)
-
-* 方法论
-  * [获取梯子上网的方式](method/get-method.md)
-  * [初次搭建网站多次失败后的成功记录](fkca/jianzhan.md)
  
- * 特别篇
-   * [不止于APN](fkca/apn.md)
-   * [最後のTag](fkca/tag.md)
-   * [Ex:跨国阶层跃升中的零容错接力与资本特权](fkca/gougongnuchubuzhoushan.md)
-
 * 此书后记
 
   * [后记](postscript.md)

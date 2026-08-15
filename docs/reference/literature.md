@@ -55,3 +55,4 @@
 * [Mozilla-内容安全策略( CSP )](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/CSP)
 * [阮一峰-Content Security Policy 入门教程](http://www.ruanyifeng.com/blog/2016/09/csp.html)
 * [Youtube - 星环无限「Rinfinity」](https://www.youtube.com/@%E6%98%9F%E7%92%B0%E7%84%A1%E9%99%90)
+* [ipdodo - 2026最新修复指南：解决电脑翻墙后chrome浏览器无法使用谷歌gemini问题](https://www.ipdodo.com/news/15150/)
