@@ -3,6 +3,69 @@
     --sidebar-width: 22rem;
 }
 
+/* ===== 夜间模式对比度修复 ===== */
+/* 书名链接 */
+html.dark .app-name-link {
+    color: #e8e8e8 !important;
+}
+
+/* 侧边栏当前选中项 */
+html.dark .sidebar-nav li.active > a {
+    color: #ffffff !important;
+    font-weight: bold;
+}
+
+/* 侧边栏所有链接 */
+html.dark .sidebar-nav a {
+    color: #cccccc !important;
+}
+
+html.dark .sidebar-nav a:hover {
+    color: #ffffff !important;
+}
+
+/* 夜间模式：侧边栏链接前的箭头隐藏（与浅色模式视觉一致） */
+html.dark .sidebar-nav li::before {
+    display: none !important;
+}
+
+/* 夜间模式：箭头是通过 background gradient 实现的，覆盖变量使其透明 */
+html.dark .sidebar-nav {
+    --sidebar-nav-pagelink-background: no-repeat 2px calc(50% - 2.5px) / 6px 5px linear-gradient(45deg, transparent 2.75px, transparent 2.75px 4.25px, transparent 4px), no-repeat 2px calc(50% + 2.5px) / 6px 5px linear-gradient(135deg, transparent 2.75px, transparent 2.75px 4.25px, transparent 4px) !important;
+    --sidebar-nav-pagelink-background--loaded: no-repeat 0px center / 5px 6px linear-gradient(225deg, transparent 2.75px, transparent 2.75px 4.25px, transparent 4.25px), no-repeat 5px center / 5px 6px linear-gradient(135deg, transparent 2.75px, transparent 2.75px 4.25px, transparent 4.25px) !important;
+}
+
+/* 右上角字数统计 */
+html.dark .count_words,
+html.dark .docsify-count {
+    color: #cccccc !important;
+}
+
+/* 代码块：允许横向滚动，不截断也不强制换行 */
+.markdown-section pre {
+    overflow-x: auto !important;
+    max-width: 100% !important;
+}
+
+.markdown-section pre > code {
+    white-space: pre !important;
+    word-break: normal !important;
+    overflow-wrap: normal !important;
+}
+
+/* 行内代码允许折行，不截断 */
+.markdown-section p code,
+.markdown-section li code,
+.markdown-section td code {
+    word-break: break-all !important;
+    white-space: pre-wrap !important;
+}
+
+/* 防止整个内容区撑破布局 */
+.markdown-section {
+    overflow-x: hidden !important;
+}
+
 .sidebar .search .clear-button {
     margin: 10px !important;
     padding: 0 0px !important;
