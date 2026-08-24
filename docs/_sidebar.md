@@ -18,7 +18,8 @@
   * [通过代理IP结合指纹浏览器上网](fkca/fxxkcxxxa.md)
   * [无法使用Gemini（ipdodo）](fkca/ipdodo-gemini.md)
   * [无法使用Gemini（自用方案）](fkca/myself-gemini.md)
-  * [Ex:跨国阶层跃升中的零容错接力与资本特权](fkca/gougongnuchubuzhoushan.md)
+  * [当代中国的离岸爱国、数字侨居、技术脱钩与双重封锁](fkca/gougong.md)
+  * [跨国阶层跃升中的零容错接力与资本特权](fkca/gougongnuchubuzhoushan.md)
 
 * DNS、Hosts
   * [DNSCrypt](dns&hosts/dnscrypt.md)
