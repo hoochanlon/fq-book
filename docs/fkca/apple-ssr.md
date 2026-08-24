@@ -1,9 +1,14 @@
 # 美区ID购买小火箭
 
-## 注册美区apple id
-
+## 前言
 
 美区号被盗了已有三年了，这一次将号牢牢掌握在自己手中。我的谷歌账号、chatgpt都是买的，但苹果ID最好还是要自己亲自注册，防止邮箱用自己的，手机号、手机设备是别人的，导致账号被盗。apple id和注册谷歌账号还是有点差别，当时我以为和雅虎台湾一样，用国内手机号注册不了美区ID，以及我也忘了是哪个网站来着，注册账号必须要vsia提供信用卡。这些步骤可谓劝退一大部分人。直到今天，自己创建了美区id才知道我想多了...
+
+从这篇[iPhone/iPad V2ray/SS 翻墙APP教程](https://fanqiang.gitbook.io/fanqiang/ios/potatsolite)文档来看，看来翻墙工具比起18年那会，也多了一些。当我再点进去一看[注册苹果美区 Apple ID 帐号并购买APP指南](https://fanqiang.gitbook.io/fanqiang/ios/appleid)，不由得一句“卧槽”，自己落后好几年了...这个翻墙教程的作者是李洪志的弟子，看来几年过去了，轮子宣传隐蔽了很多，除了翻墙新闻，几乎看不到什么轮子痕迹，不想18年那会，非常直白，基本上每个页面都有相关宣传标语。现在你不去管它，几乎不用管它，也算少有的从电脑到手机、以及路由器等等各种翻墙教程合集。
+
+现在又有了 https://ihmily.github.io/proxy-guide 看起来更像是一本书，虽有体系，但大部分人还是倾向于开箱即用的那种。
+
+## 注册美区apple id
 
 为了玩杀戮尖塔才注册港区ID，登录App Store发现也没有才转到美区的。教程参考：
 
@@ -92,9 +97,8 @@ btw:
 
 从 [美区 PayPal 注册教程](https://www.bilibili.com/video/BV1ye4HzXE1A) 评论区信息得到：招行的万事达普卡，全球人民币支付，绑定美区app store不行，但美区google可以。看了 [【最新情况】英国保号神卡 giffgaff 突然暂停向中国邮寄实体卡 ｜ 原因分析 ｜ 解决办法](https://www.bilibili.com/video/BV1Rs2MBcE3n) 给我的感触就是“无利不起早，当福利知道的人多了也就没福利了”。
 
-#### 临时写的话
 
-从这篇[iPhone/iPad V2ray/SS 翻墙APP教程](https://fanqiang.gitbook.io/fanqiang/ios/potatsolite)文档来看，看来翻墙工具比起18年那会，也多了一些。当我再点进去一看[注册苹果美区 Apple ID 帐号并购买APP指南](https://fanqiang.gitbook.io/fanqiang/ios/appleid)，不由得一句“卧槽”，自己落后好几年了...这个翻墙教程的作者是李洪志的弟子，看来几年过去了，轮子宣传隐蔽了很多，除了翻墙新闻，几乎看不到什么轮子痕迹，不想18年那会，非常直白，基本上每个页面都有相关宣传标语。现在你不去管它，几乎不用管它，也算少有的从电脑到手机、以及路由器等等各种翻墙教程合集。
+
 
 
 

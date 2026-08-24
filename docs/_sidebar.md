@@ -1,26 +1,31 @@
 * 关于本书
-
   * [前言](README.md)
 
 * 阅读须知
-  
   * [4GFW](look/4gfw.md)
   * [注意事项](look/notice.md)
   * [隐私防护](look/nsfw.md)
 
 * 快速开始
-
   * [快速入手](qintro/quickstart.md)
 
-* DNS、Hosts
+* 方法论
+  * [获取梯子上网的方式](method/get-method.md)
+  * [获取国外手机号码](fkca/esim.md)
+  * [开通虚拟信用卡摸索历程](fkca/mastercard.md)
+  * [美区ID购买小火箭](fkca/apple-ssr.md)
+  * [国外云服务器自搭梯子示例](fkca/ss-server.md)
+  * [通过代理IP结合指纹浏览器上网](fkca/fxxkcxxxa.md)
+  * [无法使用Gemini（ipdodo）](fkca/ipdodo-gemini.md)
+  * [无法使用Gemini（自用方案）](fkca/myself-gemini.md)
+  * [Ex:跨国阶层跃升中的零容错接力与资本特权](fkca/gougongnuchubuzhoushan.md)
 
+* DNS、Hosts
   * [DNSCrypt](dns&hosts/dnscrypt.md)
   * [DNS](dns&hosts/dns.md)
   * [hosts](dns&hosts/hosts.md)
 
-
 * 浏览应用
-
   * [chrome](browse/chrome.md)
   * [opera](browse/opera.md)
   * [tor（firefox）](browse/tor-firefox.md)
@@ -28,21 +33,16 @@
   * [zeronet](browse/zeronet.md)
 
 * VPN软件
-
   * [Betternet](vpn/betternet.md)
   * [典型VPN概览](vpn/classical-vpn.md)
   * [wireguard](vpn/wireguard.md)
 
 * 代理工具
-
   * [SS/SSR](proxy/ss-ssr.md)
   * [v2ray](proxy/v2ray.md)
   * [proxifier](proxy/proxifier.md)
   * [privoxy](proxy/privoxy.md)
   * [SSH-Tunnel](proxy/SSH-Tunnel.md)
-  * [美区ID购买小火箭](fkca/apple-ssr.md)
-  * [国外云服务器自搭梯子示例](fkca/ss-server.md)
-  * [通过代理IP结合指纹浏览器上网](fkca/fxxkcxxxa.md)
 
 * 使用网站
   * [搜索站点](web/searchtools.md)
@@ -60,20 +60,12 @@
   * [对去中心化网络的信仰](ipfs/belief.md)
   * [为什么说去中心化很重要](ipfs/why.md)
 
-* 方法论
-   * [获取梯子上网的方式](method/get-method.md)
-   * [获取国外手机号码](fkca/esim.md)
-   * [开通虚拟信用卡摸索历程](fkca/mastercard.md)
-   * [无法使用Gemini（ipdodo）](fkca/ipdodo-gemini.md)
-   * [无法使用Gemini（自用方案）](fkca/myself-gemini.md)
  
  * 特别篇
    * [不止于APN](fkca/apn.md)
    * [最後のTag](fkca/tag.md)
-   * [Ex:跨国阶层跃升中的零容错接力与资本特权](fkca/gougongnuchubuzhoushan.md)
 
 * 科学普及
-
   * [软件互联协议](abc/connection.md)
   * [DNS劫持与污染](abc/4dns.md)
   * [数字证书攻防概述](abc/dc_zhenshu.md)
@@ -91,7 +83,6 @@
   * [为什么翻了墙，也无法访问某网站？](a123/rst-syscall.md)
 
 * 仅作了解
-
   * [accesser](cnnic/no-chn.md)
   * [goagent](only/goagent.md)
   * [gatherproxy](only/gatherproxy.md)
@@ -100,9 +91,7 @@
   * [reqrypt](only/reqrypt.md)
   * [barbaTunnel](only/barbaTunnel.md)
 
-
 * 细节补充
-
   * [ss#1130](append/ss1130.md)
   * [难封锁的草榴](append/caoliu.md)
   * [简谈杀毒软件](append/guochan-sharuan.md)
@@ -120,9 +109,7 @@
   * [浅谈HTTP劫持、DNS污染的影响及解决办法](doub/6t3mypbm-5.md)
  
 * 此书后记
-
   * [后记](postscript.md)
 
 * 参考文献
-
   * [文献列表](reference/literature.md)
