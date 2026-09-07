@@ -6,7 +6,7 @@
 > [!important]
 > 《这本书》示例的多数网址，以及更多资料收录在 [hamuleite](https://github.com/hoochanlon/hamuleite) ，书中的相关章节搭配存储库 `科学上网` 效果会更好！推荐相关网络切换及计算软件: [Ip-Switch](https://github.com/hoochanlon/Ip-Switch)、[network-calculator](https://github.com/hoochanlon/network-calculator)。
 >
-> 不得不说，[Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers) 这个免费梯子真厉害，[DiningFactory/panda-vpn-pro](https://github.com/DiningFactory/panda-vpn-pro) 低价付费机场也不失为一种选择。[clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) 都实现VPN的功能了 ，以及千种配置 [mihomo_yamls](https://github.com/HenryChiao/mihomo_yamls) 太强了。
+> 不得不说，[Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers) 这个免费梯子真厉害，利用 cloudflare [LancelotRar/free-subs](https://github.com/LancelotRar/free-subs) 搭建节点也是可以参考的，[DiningFactory/panda-vpn-pro](https://github.com/DiningFactory/panda-vpn-pro) 低价付费机场也不失为一种选择。[clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) 都实现VPN的功能了，以及千种配置 [mihomo_yamls](https://github.com/HenryChiao/mihomo_yamls) 太强了。
 >
 > 随着AI时代的到来，[panxunying/ai-coding-welfare](https://github.com/panxunying/ai-coding-welfare) 知道一些 AI Coding 福利站导航也不赖，我更多的是用咸鱼... 关于 https://byoungd.github.io/up ， [人生进阶指南](https://github.com/byoungd/up) 或许很有趣...
 
