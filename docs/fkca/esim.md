@@ -58,6 +58,6 @@ kitesim 套餐：
 * [星环无限 - 超高性价比美国流量eSIM | 原生高质量美国IP | 保号套餐 | 流量套餐 | 多国流量&多国漫游 | 跨境电商 | 出国旅游 | 留学](https://www.youtube.com/watch?v=Xmz0As2eBC0)
 * [星环无限 - 海外账号卡在手机验证？无需实体卡，轻松搞定海外APP验证码，告别注册失败!](https://www.youtube.com/watch?v=I65a7BKtCf0)
 
-看到这里，知道为什么管控esim那么严了吧...咱妈都是为你好啊！过去Wi-Fi也是！！！
+看到这里，知道为什么管控esim那么严了吧...咱妈都是为你好啊！过去Wi-Fi也是！！！还想深入的话，那就去买美股吧：[zgwl/chinese-buy-us-stock-guide](https://github.com/zgwl/chinese-buy-us-stock-guide)
 
-> [!tip] 以上这些都不行的话，找个靠谱的收费接码平台凑合用吧，或是出国托人代购手机卡什么的。 
+> [!tip] 以上这些都不行的话，找个靠谱的收费接码平台凑合用吧，或是出国托人代购手机卡什么的。
