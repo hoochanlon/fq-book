@@ -4,9 +4,7 @@
 |:-:|:-:|
 
 > [!important]
-> 《这本书》示例的多数网址，以及更多资料收录在 [hamuleite](https://github.com/hoochanlon/hamuleite) ，书中的相关章节搭配存储库 `科学上网` 效果会更好！
->
-> 推荐相关网络切换及计算软件: [Ip-Switch](https://github.com/hoochanlon/Ip-Switch)、[network-calculator](https://github.com/hoochanlon/network-calculator)。
+> 《这本书》示例的多数网址，以及更多资料收录在 [hamuleite](https://github.com/hoochanlon/hamuleite) ，推荐相关网络切换及计算软件: [Ip-Switch](https://github.com/hoochanlon/Ip-Switch)、[network-calculator](https://github.com/hoochanlon/network-calculator)。
 >
 > 不得不说，[Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers) 这个免费梯子真厉害，利用 cloudflare [LancelotRar/free-subs](https://github.com/LancelotRar/free-subs) 搭建节点也是可以参考的，[DiningFactory/panda-vpn-pro](https://github.com/DiningFactory/panda-vpn-pro) 低价付费机场也不失为一种选择。
 >
