@@ -203,5 +203,5 @@ ProxyCommand socat - PROXY:127.0.0.1:%h:%p,proxyport=8848
 * 中国居民请自觉关闭本书并24小时内删掉与此相关的所有内容，否则出现一切后果本书作者概不负责
 
 > [!note]
-> 接下来的 [人生进阶指南](https://github.com/byoungd/up) 或许很有趣...
+> 接下来的 [人生进阶指南](https://github.com/byoungd/up) 或许很有趣...当然还有 [润(run)学](https://github.com/The-Run-Philosophy-Organization/run)。
 
