@@ -205,3 +205,6 @@ ProxyCommand socat - PROXY:127.0.0.1:%h:%p,proxyport=8848
 > [!note]
 > 接下来的 [人生进阶指南](https://github.com/byoungd/up) 或许很有趣...当然还有 [润(run)学](https://github.com/The-Run-Philosophy-Organization/run)。
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/chart?repos=hoochanlon/fq-book%2Choochanlon/hamuleite&type=timeline&legend=top-left)](https://www.star-history.com/?repos=hoochanlon%2Ffq-book%2Choochanlon%2Fhamuleite&type=timeline&logscale=&legend=top-left)
