@@ -15,5 +15,6 @@ VPN、Proxy不时也会出现新应用，操作方式多数基本也大同小异
 
 此书献给热爱互联网的人们，以上...
 
-***[About Me（关于作者）](https://hoochanlon.github.io/hoochanlon/hcl/index.html)***
+***[About Me（关于作者）](https://hoochanlon.github.io)***
 
+[![Star History Chart](https://api.star-history.com/chart?repos=hoochanlon/fq-book%2Choochanlon/hamuleite&type=timeline&legend=top-left)](https://www.star-history.com/?repos=hoochanlon%2Ffq-book%2Choochanlon%2Fhamuleite&type=timeline&logscale=&legend=top-left)
