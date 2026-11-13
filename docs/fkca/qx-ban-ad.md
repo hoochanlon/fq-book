@@ -1,4 +1,4 @@
-# Quantumult X 去广告与 MITM：给新手的完整入门
+# Quantumult X 去广告基础原理
 
 这篇文章用尽量直白的方式解释 Quantumult X（简称 QX）如何去广告、MITM 解密是什么、规则文件里的 `reject` 和 `redirect` 怎么看，以及广告规则为什么有时会失效。文中的域名和 URL 都是演示用例；实际规则会因 App 版本和订阅更新而变化。
 
