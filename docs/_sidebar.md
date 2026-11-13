@@ -66,6 +66,7 @@
    * [不止于APN](fkca/apn.md)
    * [最後のTag](fkca/tag.md)
 
+
 * 科学普及
   * [软件互联协议](abc/connection.md)
   * [DNS劫持与污染](abc/4dns.md)
@@ -82,6 +83,7 @@
   * [为什么纯净IP这么重要？](abc/pure.md)
   * [集群、分布式、负载均衡区别](abc/p7255364.md)
   * [为什么翻了墙，也无法访问某网站？](a123/rst-syscall.md)
+  * [Quantumult X 去广告与 MITM：给新手的完整入门](fkca/qx-ban-ad.md)
 
 * 仅作了解
   * [accesser](cnnic/no-chn.md)
