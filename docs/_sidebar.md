@@ -98,7 +98,7 @@
 * 细节补充
   * [ss#1130](append/ss1130.md)
   * [难封锁的草榴](append/caoliu.md)
-  * [Quantumult X 去广告与 MITM：给新手的完整入门](fkca/qx-ban-ad.md)
+  * [Quantumult X 去广告基础原理](fkca/qx-ban-ad.md)
   * [简谈杀毒软件](append/guochan-sharuan.md)
   * [谈谈手机的选择及使用](append/android.md)
   * [关于封锁IP的认为](append/block-ip.md)
