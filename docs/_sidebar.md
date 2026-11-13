@@ -83,7 +83,7 @@
   * [为什么纯净IP这么重要？](abc/pure.md)
   * [集群、分布式、负载均衡区别](abc/p7255364.md)
   * [为什么翻了墙，也无法访问某网站？](a123/rst-syscall.md)
-  * [Quantumult X 去广告与 MITM：给新手的完整入门](fkca/qx-ban-ad.md)
+
 
 * 仅作了解
   * [accesser](cnnic/no-chn.md)
@@ -93,10 +93,12 @@
   * [brook](only/brook.md)
   * [reqrypt](only/reqrypt.md)
   * [barbaTunnel](only/barbaTunnel.md)
+  * [Quantumult X](only/qx(gourideguochanapp).md)
 
 * 细节补充
   * [ss#1130](append/ss1130.md)
   * [难封锁的草榴](append/caoliu.md)
+  * [Quantumult X 去广告与 MITM：给新手的完整入门](fkca/qx-ban-ad.md)
   * [简谈杀毒软件](append/guochan-sharuan.md)
   * [谈谈手机的选择及使用](append/android.md)
   * [关于封锁IP的认为](append/block-ip.md)
