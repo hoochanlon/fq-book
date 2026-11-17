@@ -18,7 +18,7 @@
   * [通过代理IP结合指纹浏览器上网](fkca/fxxkcxxxa.md)
   * [无法使用Gemini（ipdodo）](fkca/ipdodo-gemini.md)
   * [Quantumult X去手机开屏广告](fkca/qx(gourideguochanapp).md)
-  * [开屏摇一摇广告的原罪](fkca/gcdyshigoushizazhong.md)
+  * [手机开屏摇一摇广告原罪！](fkca/gcdyshigoushizazhong.md)
   * [离岸爱国、数字侨居、脱钩与双重封锁](fkca/gougong.md)
   * [跨国阶层跃升中的零容错接力与资本特权](fkca/gougongnuchubuzhoushan.md)
 
