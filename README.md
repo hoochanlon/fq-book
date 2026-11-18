@@ -6,9 +6,7 @@
 > [!important]
 > 《这本书》示例的多数网址，以及更多资料收录在 [hamuleite](https://github.com/hoochanlon/hamuleite) ，推荐相关网络切换及计算软件: [Ip-Switch](https://github.com/hoochanlon/Ip-Switch)、[network-calculator](https://github.com/hoochanlon/network-calculator)。
 >
-> 不得不说，[Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers)、[YoulianBoshi/vpn](https://github.com/YoulianBoshi/vpn) 这些免费梯子真厉害，利用 cloudflare [LancelotRar/free-subs](https://github.com/LancelotRar/free-subs) 搭建节点也是可以参考的，[DiningFactory/panda-vpn-pro](https://github.com/DiningFactory/panda-vpn-pro) 低价付费机场也不失为一种选择。
->
-> [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) 都实现VPN的功能了，以及千种配置 [mihomo_yamls](https://github.com/HenryChiao/mihomo_yamls) 太强了。
+> 不得不说，[Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers)、[YoulianBoshi/vpn](https://github.com/YoulianBoshi/vpn) 这些免费梯子真厉害，利用 cloudflare [LancelotRar/free-subs](https://github.com/LancelotRar/free-subs) 搭建节点也是可以参考的，[DiningFactory/panda-vpn-pro](https://github.com/DiningFactory/panda-vpn-pro) 低价付费机场也不失为一种选择，[clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) 都实现VPN的功能了，以及千种配置 [mihomo_yamls](https://github.com/HenryChiao/mihomo_yamls) 太强了！
 >
 > 随着AI时代的到来，[panxunying/ai-coding-welfare](https://github.com/panxunying/ai-coding-welfare) 知道一些 AI Coding 福利站导航也不赖，我更多的是用咸鱼...
 
@@ -19,6 +17,8 @@
 * [导读](docs/README.md)
 * [目录](docs/_sidebar.md)
 * [后记](docs/postscript.md)
+
+在阅读完本书后，对互联网原理感兴趣的同学可以去了解 Protocol Explorer 项目，可视化的讲解互联网各种常用协议，了解互联网如何运作：https://protocol-explorer-alpha.vercel.app
 
 ## ***update***
 
